@@ -1,0 +1,14 @@
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E4_AreaCuarto\bin\Debug\netcoreapp3.1\E4_AreaCuarto.exe
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E4_AreaCuarto\bin\Debug\netcoreapp3.1\E4_AreaCuarto.deps.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E4_AreaCuarto\bin\Debug\netcoreapp3.1\E4_AreaCuarto.runtimeconfig.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E4_AreaCuarto\bin\Debug\netcoreapp3.1\E4_AreaCuarto.runtimeconfig.dev.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E4_AreaCuarto\bin\Debug\netcoreapp3.1\E4_AreaCuarto.dll
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E4_AreaCuarto\bin\Debug\netcoreapp3.1\E4_AreaCuarto.pdb
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E4_AreaCuarto\obj\Debug\netcoreapp3.1\E4_AreaCuarto.csproj.AssemblyReference.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E4_AreaCuarto\obj\Debug\netcoreapp3.1\E4_AreaCuarto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E4_AreaCuarto\obj\Debug\netcoreapp3.1\E4_AreaCuarto.AssemblyInfoInputs.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E4_AreaCuarto\obj\Debug\netcoreapp3.1\E4_AreaCuarto.AssemblyInfo.cs
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E4_AreaCuarto\obj\Debug\netcoreapp3.1\E4_AreaCuarto.csproj.CoreCompileInputs.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E4_AreaCuarto\obj\Debug\netcoreapp3.1\E4_AreaCuarto.dll
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E4_AreaCuarto\obj\Debug\netcoreapp3.1\E4_AreaCuarto.pdb
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E4_AreaCuarto\obj\Debug\netcoreapp3.1\E4_AreaCuarto.genruntimeconfig.cache

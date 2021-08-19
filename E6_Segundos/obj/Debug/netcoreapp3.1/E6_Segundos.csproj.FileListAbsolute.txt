@@ -1,0 +1,14 @@
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E6_Segundos\bin\Debug\netcoreapp3.1\E6_Segundos.exe
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E6_Segundos\bin\Debug\netcoreapp3.1\E6_Segundos.deps.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E6_Segundos\bin\Debug\netcoreapp3.1\E6_Segundos.runtimeconfig.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E6_Segundos\bin\Debug\netcoreapp3.1\E6_Segundos.runtimeconfig.dev.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E6_Segundos\bin\Debug\netcoreapp3.1\E6_Segundos.dll
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E6_Segundos\bin\Debug\netcoreapp3.1\E6_Segundos.pdb
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E6_Segundos\obj\Debug\netcoreapp3.1\E6_Segundos.csproj.AssemblyReference.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E6_Segundos\obj\Debug\netcoreapp3.1\E6_Segundos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E6_Segundos\obj\Debug\netcoreapp3.1\E6_Segundos.AssemblyInfoInputs.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E6_Segundos\obj\Debug\netcoreapp3.1\E6_Segundos.AssemblyInfo.cs
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E6_Segundos\obj\Debug\netcoreapp3.1\E6_Segundos.csproj.CoreCompileInputs.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E6_Segundos\obj\Debug\netcoreapp3.1\E6_Segundos.dll
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E6_Segundos\obj\Debug\netcoreapp3.1\E6_Segundos.pdb
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E6_Segundos\obj\Debug\netcoreapp3.1\E6_Segundos.genruntimeconfig.cache

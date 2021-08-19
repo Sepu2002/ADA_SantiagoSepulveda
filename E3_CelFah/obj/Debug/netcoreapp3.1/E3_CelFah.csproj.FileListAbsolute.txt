@@ -1,0 +1,14 @@
+C:\Users\sslpa\source\repos\E3_CelFah\bin\Debug\netcoreapp3.1\E3_CelFah.exe
+C:\Users\sslpa\source\repos\E3_CelFah\bin\Debug\netcoreapp3.1\E3_CelFah.deps.json
+C:\Users\sslpa\source\repos\E3_CelFah\bin\Debug\netcoreapp3.1\E3_CelFah.runtimeconfig.json
+C:\Users\sslpa\source\repos\E3_CelFah\bin\Debug\netcoreapp3.1\E3_CelFah.runtimeconfig.dev.json
+C:\Users\sslpa\source\repos\E3_CelFah\bin\Debug\netcoreapp3.1\E3_CelFah.dll
+C:\Users\sslpa\source\repos\E3_CelFah\bin\Debug\netcoreapp3.1\E3_CelFah.pdb
+C:\Users\sslpa\source\repos\E3_CelFah\obj\Debug\netcoreapp3.1\E3_CelFah.csproj.AssemblyReference.cache
+C:\Users\sslpa\source\repos\E3_CelFah\obj\Debug\netcoreapp3.1\E3_CelFah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sslpa\source\repos\E3_CelFah\obj\Debug\netcoreapp3.1\E3_CelFah.AssemblyInfoInputs.cache
+C:\Users\sslpa\source\repos\E3_CelFah\obj\Debug\netcoreapp3.1\E3_CelFah.AssemblyInfo.cs
+C:\Users\sslpa\source\repos\E3_CelFah\obj\Debug\netcoreapp3.1\E3_CelFah.csproj.CoreCompileInputs.cache
+C:\Users\sslpa\source\repos\E3_CelFah\obj\Debug\netcoreapp3.1\E3_CelFah.dll
+C:\Users\sslpa\source\repos\E3_CelFah\obj\Debug\netcoreapp3.1\E3_CelFah.pdb
+C:\Users\sslpa\source\repos\E3_CelFah\obj\Debug\netcoreapp3.1\E3_CelFah.genruntimeconfig.cache

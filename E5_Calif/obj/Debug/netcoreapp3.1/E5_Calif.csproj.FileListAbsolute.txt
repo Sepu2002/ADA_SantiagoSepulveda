@@ -1,0 +1,14 @@
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E5_Calif\bin\Debug\netcoreapp3.1\E5_Calif.exe
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E5_Calif\bin\Debug\netcoreapp3.1\E5_Calif.deps.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E5_Calif\bin\Debug\netcoreapp3.1\E5_Calif.runtimeconfig.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E5_Calif\bin\Debug\netcoreapp3.1\E5_Calif.runtimeconfig.dev.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E5_Calif\bin\Debug\netcoreapp3.1\E5_Calif.dll
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E5_Calif\bin\Debug\netcoreapp3.1\E5_Calif.pdb
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E5_Calif\obj\Debug\netcoreapp3.1\E5_Calif.csproj.AssemblyReference.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E5_Calif\obj\Debug\netcoreapp3.1\E5_Calif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E5_Calif\obj\Debug\netcoreapp3.1\E5_Calif.AssemblyInfoInputs.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E5_Calif\obj\Debug\netcoreapp3.1\E5_Calif.AssemblyInfo.cs
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E5_Calif\obj\Debug\netcoreapp3.1\E5_Calif.csproj.CoreCompileInputs.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E5_Calif\obj\Debug\netcoreapp3.1\E5_Calif.dll
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E5_Calif\obj\Debug\netcoreapp3.1\E5_Calif.pdb
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E5_Calif\obj\Debug\netcoreapp3.1\E5_Calif.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E8_CircCuad\bin\Debug\netcoreapp3.1\E8_CircCuad.exe
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E8_CircCuad\bin\Debug\netcoreapp3.1\E8_CircCuad.deps.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E8_CircCuad\bin\Debug\netcoreapp3.1\E8_CircCuad.runtimeconfig.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E8_CircCuad\bin\Debug\netcoreapp3.1\E8_CircCuad.runtimeconfig.dev.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E8_CircCuad\bin\Debug\netcoreapp3.1\E8_CircCuad.dll
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E8_CircCuad\bin\Debug\netcoreapp3.1\E8_CircCuad.pdb
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E8_CircCuad\obj\Debug\netcoreapp3.1\E8_CircCuad.csproj.AssemblyReference.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E8_CircCuad\obj\Debug\netcoreapp3.1\E8_CircCuad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E8_CircCuad\obj\Debug\netcoreapp3.1\E8_CircCuad.AssemblyInfoInputs.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E8_CircCuad\obj\Debug\netcoreapp3.1\E8_CircCuad.AssemblyInfo.cs
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E8_CircCuad\obj\Debug\netcoreapp3.1\E8_CircCuad.csproj.CoreCompileInputs.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E8_CircCuad\obj\Debug\netcoreapp3.1\E8_CircCuad.dll
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E8_CircCuad\obj\Debug\netcoreapp3.1\E8_CircCuad.pdb
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E8_CircCuad\obj\Debug\netcoreapp3.1\E8_CircCuad.genruntimeconfig.cache

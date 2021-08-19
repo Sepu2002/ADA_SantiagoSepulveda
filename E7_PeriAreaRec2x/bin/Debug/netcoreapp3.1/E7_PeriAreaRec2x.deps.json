@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "E7_PeriAreaRec2x/1.0.0": {
+        "runtime": {
+          "E7_PeriAreaRec2x.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E7_PeriAreaRec2x/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

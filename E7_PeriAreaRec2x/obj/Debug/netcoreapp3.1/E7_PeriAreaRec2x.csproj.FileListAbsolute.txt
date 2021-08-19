@@ -1,0 +1,14 @@
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E7_PeriAreaRec2x\bin\Debug\netcoreapp3.1\E7_PeriAreaRec2x.exe
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E7_PeriAreaRec2x\bin\Debug\netcoreapp3.1\E7_PeriAreaRec2x.deps.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E7_PeriAreaRec2x\bin\Debug\netcoreapp3.1\E7_PeriAreaRec2x.runtimeconfig.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E7_PeriAreaRec2x\bin\Debug\netcoreapp3.1\E7_PeriAreaRec2x.runtimeconfig.dev.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E7_PeriAreaRec2x\bin\Debug\netcoreapp3.1\E7_PeriAreaRec2x.dll
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E7_PeriAreaRec2x\bin\Debug\netcoreapp3.1\E7_PeriAreaRec2x.pdb
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E7_PeriAreaRec2x\obj\Debug\netcoreapp3.1\E7_PeriAreaRec2x.csproj.AssemblyReference.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E7_PeriAreaRec2x\obj\Debug\netcoreapp3.1\E7_PeriAreaRec2x.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E7_PeriAreaRec2x\obj\Debug\netcoreapp3.1\E7_PeriAreaRec2x.AssemblyInfoInputs.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E7_PeriAreaRec2x\obj\Debug\netcoreapp3.1\E7_PeriAreaRec2x.AssemblyInfo.cs
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E7_PeriAreaRec2x\obj\Debug\netcoreapp3.1\E7_PeriAreaRec2x.csproj.CoreCompileInputs.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E7_PeriAreaRec2x\obj\Debug\netcoreapp3.1\E7_PeriAreaRec2x.dll
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E7_PeriAreaRec2x\obj\Debug\netcoreapp3.1\E7_PeriAreaRec2x.pdb
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E7_PeriAreaRec2x\obj\Debug\netcoreapp3.1\E7_PeriAreaRec2x.genruntimeconfig.cache

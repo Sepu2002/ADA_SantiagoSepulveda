@@ -1,0 +1,14 @@
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E10_Redondeo\bin\Debug\netcoreapp3.1\E10_Redondeo.exe
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E10_Redondeo\bin\Debug\netcoreapp3.1\E10_Redondeo.deps.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E10_Redondeo\bin\Debug\netcoreapp3.1\E10_Redondeo.runtimeconfig.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E10_Redondeo\bin\Debug\netcoreapp3.1\E10_Redondeo.runtimeconfig.dev.json
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E10_Redondeo\bin\Debug\netcoreapp3.1\E10_Redondeo.dll
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E10_Redondeo\bin\Debug\netcoreapp3.1\E10_Redondeo.pdb
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E10_Redondeo\obj\Debug\netcoreapp3.1\E10_Redondeo.csproj.AssemblyReference.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E10_Redondeo\obj\Debug\netcoreapp3.1\E10_Redondeo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E10_Redondeo\obj\Debug\netcoreapp3.1\E10_Redondeo.AssemblyInfoInputs.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E10_Redondeo\obj\Debug\netcoreapp3.1\E10_Redondeo.AssemblyInfo.cs
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E10_Redondeo\obj\Debug\netcoreapp3.1\E10_Redondeo.csproj.CoreCompileInputs.cache
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E10_Redondeo\obj\Debug\netcoreapp3.1\E10_Redondeo.dll
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E10_Redondeo\obj\Debug\netcoreapp3.1\E10_Redondeo.pdb
+C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E10_Redondeo\obj\Debug\netcoreapp3.1\E10_Redondeo.genruntimeconfig.cache

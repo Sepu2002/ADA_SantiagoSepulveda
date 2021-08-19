@@ -1,0 +1,14 @@
+C:\Users\sslpa\source\repos\E2_CocienteResiduo\bin\Debug\netcoreapp3.1\E2_CocienteResiduo.exe
+C:\Users\sslpa\source\repos\E2_CocienteResiduo\bin\Debug\netcoreapp3.1\E2_CocienteResiduo.deps.json
+C:\Users\sslpa\source\repos\E2_CocienteResiduo\bin\Debug\netcoreapp3.1\E2_CocienteResiduo.runtimeconfig.json
+C:\Users\sslpa\source\repos\E2_CocienteResiduo\bin\Debug\netcoreapp3.1\E2_CocienteResiduo.runtimeconfig.dev.json
+C:\Users\sslpa\source\repos\E2_CocienteResiduo\bin\Debug\netcoreapp3.1\E2_CocienteResiduo.dll
+C:\Users\sslpa\source\repos\E2_CocienteResiduo\bin\Debug\netcoreapp3.1\E2_CocienteResiduo.pdb
+C:\Users\sslpa\source\repos\E2_CocienteResiduo\obj\Debug\netcoreapp3.1\E2_CocienteResiduo.csproj.AssemblyReference.cache
+C:\Users\sslpa\source\repos\E2_CocienteResiduo\obj\Debug\netcoreapp3.1\E2_CocienteResiduo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sslpa\source\repos\E2_CocienteResiduo\obj\Debug\netcoreapp3.1\E2_CocienteResiduo.AssemblyInfoInputs.cache
+C:\Users\sslpa\source\repos\E2_CocienteResiduo\obj\Debug\netcoreapp3.1\E2_CocienteResiduo.AssemblyInfo.cs
+C:\Users\sslpa\source\repos\E2_CocienteResiduo\obj\Debug\netcoreapp3.1\E2_CocienteResiduo.csproj.CoreCompileInputs.cache
+C:\Users\sslpa\source\repos\E2_CocienteResiduo\obj\Debug\netcoreapp3.1\E2_CocienteResiduo.dll
+C:\Users\sslpa\source\repos\E2_CocienteResiduo\obj\Debug\netcoreapp3.1\E2_CocienteResiduo.pdb
+C:\Users\sslpa\source\repos\E2_CocienteResiduo\obj\Debug\netcoreapp3.1\E2_CocienteResiduo.genruntimeconfig.cache
