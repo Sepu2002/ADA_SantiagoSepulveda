@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\ADA_2021_RandomNum\bin\Debug\netcoreapp3.1\ADA_2021_RandomNum.exe
+D:\Documents\GitHub\ADA_Csh\ADA_2021_RandomNum\bin\Debug\netcoreapp3.1\ADA_2021_RandomNum.deps.json
+D:\Documents\GitHub\ADA_Csh\ADA_2021_RandomNum\bin\Debug\netcoreapp3.1\ADA_2021_RandomNum.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\ADA_2021_RandomNum\bin\Debug\netcoreapp3.1\ADA_2021_RandomNum.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\ADA_2021_RandomNum\bin\Debug\netcoreapp3.1\ADA_2021_RandomNum.dll
+D:\Documents\GitHub\ADA_Csh\ADA_2021_RandomNum\bin\Debug\netcoreapp3.1\ADA_2021_RandomNum.pdb
+D:\Documents\GitHub\ADA_Csh\ADA_2021_RandomNum\obj\Debug\netcoreapp3.1\ADA_2021_RandomNum.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\ADA_2021_RandomNum\obj\Debug\netcoreapp3.1\ADA_2021_RandomNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\ADA_2021_RandomNum\obj\Debug\netcoreapp3.1\ADA_2021_RandomNum.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\ADA_2021_RandomNum\obj\Debug\netcoreapp3.1\ADA_2021_RandomNum.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\ADA_2021_RandomNum\obj\Debug\netcoreapp3.1\ADA_2021_RandomNum.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\ADA_2021_RandomNum\obj\Debug\netcoreapp3.1\ADA_2021_RandomNum.dll
+D:\Documents\GitHub\ADA_Csh\ADA_2021_RandomNum\obj\Debug\netcoreapp3.1\ADA_2021_RandomNum.pdb
+D:\Documents\GitHub\ADA_Csh\ADA_2021_RandomNum\obj\Debug\netcoreapp3.1\ADA_2021_RandomNum.genruntimeconfig.cache
