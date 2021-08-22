@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E1_CilindroAleatorio\bin\Debug\netcoreapp3.1\E1_CilindroAleatorio.exe
+D:\Documents\GitHub\ADA_Csh\E1_CilindroAleatorio\bin\Debug\netcoreapp3.1\E1_CilindroAleatorio.deps.json
+D:\Documents\GitHub\ADA_Csh\E1_CilindroAleatorio\bin\Debug\netcoreapp3.1\E1_CilindroAleatorio.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E1_CilindroAleatorio\bin\Debug\netcoreapp3.1\E1_CilindroAleatorio.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E1_CilindroAleatorio\bin\Debug\netcoreapp3.1\E1_CilindroAleatorio.dll
+D:\Documents\GitHub\ADA_Csh\E1_CilindroAleatorio\bin\Debug\netcoreapp3.1\E1_CilindroAleatorio.pdb
+D:\Documents\GitHub\ADA_Csh\E1_CilindroAleatorio\obj\Debug\netcoreapp3.1\E1_CilindroAleatorio.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E1_CilindroAleatorio\obj\Debug\netcoreapp3.1\E1_CilindroAleatorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E1_CilindroAleatorio\obj\Debug\netcoreapp3.1\E1_CilindroAleatorio.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E1_CilindroAleatorio\obj\Debug\netcoreapp3.1\E1_CilindroAleatorio.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E1_CilindroAleatorio\obj\Debug\netcoreapp3.1\E1_CilindroAleatorio.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E1_CilindroAleatorio\obj\Debug\netcoreapp3.1\E1_CilindroAleatorio.dll
+D:\Documents\GitHub\ADA_Csh\E1_CilindroAleatorio\obj\Debug\netcoreapp3.1\E1_CilindroAleatorio.pdb
+D:\Documents\GitHub\ADA_Csh\E1_CilindroAleatorio\obj\Debug\netcoreapp3.1\E1_CilindroAleatorio.genruntimeconfig.cache

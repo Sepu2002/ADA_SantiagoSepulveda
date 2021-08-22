@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\GitHub\\ADA_Csh\\E1_Cilindro\\E1_Cilindro.csproj",
-      "projectName": "E1_Cilindro",
-      "projectPath": "D:\\Documents\\GitHub\\ADA_Csh\\E1_Cilindro\\E1_Cilindro.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\ADA_Csh\\E1_CilindroAleatorio\\E1_CilindroAleatorio.csproj",
+      "projectName": "E1_CilindroAleatorio",
+      "projectPath": "D:\\Documents\\GitHub\\ADA_Csh\\E1_CilindroAleatorio\\E1_CilindroAleatorio.csproj",
       "packagesPath": "C:\\Users\\sslpa\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\GitHub\\ADA_Csh\\E1_Cilindro\\obj\\",
+      "outputPath": "D:\\Documents\\GitHub\\ADA_Csh\\E1_CilindroAleatorio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sslpa\\AppData\\Roaming\\NuGet\\NuGet.Config",

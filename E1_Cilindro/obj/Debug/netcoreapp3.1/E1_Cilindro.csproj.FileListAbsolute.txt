@@ -12,3 +12,17 @@ C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E1_Cilindro\obj\Debug\netcor
 C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E1_Cilindro\obj\Debug\netcoreapp3.1\E1_Cilindro.dll
 C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E1_Cilindro\obj\Debug\netcoreapp3.1\E1_Cilindro.pdb
 C:\Users\sslpa\Desktop\School\Diseño de Algoritmos\E1_Cilindro\obj\Debug\netcoreapp3.1\E1_Cilindro.genruntimeconfig.cache
+D:\Documents\GitHub\ADA_Csh\E1_Cilindro\bin\Debug\netcoreapp3.1\E1_Cilindro.exe
+D:\Documents\GitHub\ADA_Csh\E1_Cilindro\bin\Debug\netcoreapp3.1\E1_Cilindro.deps.json
+D:\Documents\GitHub\ADA_Csh\E1_Cilindro\bin\Debug\netcoreapp3.1\E1_Cilindro.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E1_Cilindro\bin\Debug\netcoreapp3.1\E1_Cilindro.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E1_Cilindro\bin\Debug\netcoreapp3.1\E1_Cilindro.dll
+D:\Documents\GitHub\ADA_Csh\E1_Cilindro\bin\Debug\netcoreapp3.1\E1_Cilindro.pdb
+D:\Documents\GitHub\ADA_Csh\E1_Cilindro\obj\Debug\netcoreapp3.1\E1_Cilindro.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E1_Cilindro\obj\Debug\netcoreapp3.1\E1_Cilindro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E1_Cilindro\obj\Debug\netcoreapp3.1\E1_Cilindro.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E1_Cilindro\obj\Debug\netcoreapp3.1\E1_Cilindro.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E1_Cilindro\obj\Debug\netcoreapp3.1\E1_Cilindro.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E1_Cilindro\obj\Debug\netcoreapp3.1\E1_Cilindro.dll
+D:\Documents\GitHub\ADA_Csh\E1_Cilindro\obj\Debug\netcoreapp3.1\E1_Cilindro.pdb
+D:\Documents\GitHub\ADA_Csh\E1_Cilindro\obj\Debug\netcoreapp3.1\E1_Cilindro.genruntimeconfig.cache
