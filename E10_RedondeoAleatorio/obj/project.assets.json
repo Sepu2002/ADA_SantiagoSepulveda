@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\GitHub\\ADA_Csh\\E10_Redondeo\\E10_Redondeo.csproj",
-      "projectName": "E10_Redondeo",
-      "projectPath": "D:\\Documents\\GitHub\\ADA_Csh\\E10_Redondeo\\E10_Redondeo.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\ADA_Csh\\E10_RedondeoAleatorio\\E10_RedondeoAleatorio.csproj",
+      "projectName": "E10_RedondeoAleatorio",
+      "projectPath": "D:\\Documents\\GitHub\\ADA_Csh\\E10_RedondeoAleatorio\\E10_RedondeoAleatorio.csproj",
       "packagesPath": "C:\\Users\\sslpa\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\GitHub\\ADA_Csh\\E10_Redondeo\\obj\\",
+      "outputPath": "D:\\Documents\\GitHub\\ADA_Csh\\E10_RedondeoAleatorio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sslpa\\AppData\\Roaming\\NuGet\\NuGet.Config",

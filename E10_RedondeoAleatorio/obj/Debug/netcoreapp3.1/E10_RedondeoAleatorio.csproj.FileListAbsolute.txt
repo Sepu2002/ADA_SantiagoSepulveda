@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E10_RedondeoAleatorio\bin\Debug\netcoreapp3.1\E10_RedondeoAleatorio.exe
+D:\Documents\GitHub\ADA_Csh\E10_RedondeoAleatorio\bin\Debug\netcoreapp3.1\E10_RedondeoAleatorio.deps.json
+D:\Documents\GitHub\ADA_Csh\E10_RedondeoAleatorio\bin\Debug\netcoreapp3.1\E10_RedondeoAleatorio.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E10_RedondeoAleatorio\bin\Debug\netcoreapp3.1\E10_RedondeoAleatorio.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E10_RedondeoAleatorio\bin\Debug\netcoreapp3.1\E10_RedondeoAleatorio.dll
+D:\Documents\GitHub\ADA_Csh\E10_RedondeoAleatorio\bin\Debug\netcoreapp3.1\E10_RedondeoAleatorio.pdb
+D:\Documents\GitHub\ADA_Csh\E10_RedondeoAleatorio\obj\Debug\netcoreapp3.1\E10_RedondeoAleatorio.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E10_RedondeoAleatorio\obj\Debug\netcoreapp3.1\E10_RedondeoAleatorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E10_RedondeoAleatorio\obj\Debug\netcoreapp3.1\E10_RedondeoAleatorio.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E10_RedondeoAleatorio\obj\Debug\netcoreapp3.1\E10_RedondeoAleatorio.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E10_RedondeoAleatorio\obj\Debug\netcoreapp3.1\E10_RedondeoAleatorio.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E10_RedondeoAleatorio\obj\Debug\netcoreapp3.1\E10_RedondeoAleatorio.dll
+D:\Documents\GitHub\ADA_Csh\E10_RedondeoAleatorio\obj\Debug\netcoreapp3.1\E10_RedondeoAleatorio.pdb
+D:\Documents\GitHub\ADA_Csh\E10_RedondeoAleatorio\obj\Debug\netcoreapp3.1\E10_RedondeoAleatorio.genruntimeconfig.cache
