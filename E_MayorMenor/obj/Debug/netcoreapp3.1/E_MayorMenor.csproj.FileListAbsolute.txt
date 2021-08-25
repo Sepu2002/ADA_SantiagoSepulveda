@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_MayorMenor\bin\Debug\netcoreapp3.1\E_MayorMenor.exe
+D:\Documents\GitHub\ADA_Csh\E_MayorMenor\bin\Debug\netcoreapp3.1\E_MayorMenor.deps.json
+D:\Documents\GitHub\ADA_Csh\E_MayorMenor\bin\Debug\netcoreapp3.1\E_MayorMenor.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_MayorMenor\bin\Debug\netcoreapp3.1\E_MayorMenor.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_MayorMenor\bin\Debug\netcoreapp3.1\E_MayorMenor.dll
+D:\Documents\GitHub\ADA_Csh\E_MayorMenor\bin\Debug\netcoreapp3.1\E_MayorMenor.pdb
+D:\Documents\GitHub\ADA_Csh\E_MayorMenor\obj\Debug\netcoreapp3.1\E_MayorMenor.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_MayorMenor\obj\Debug\netcoreapp3.1\E_MayorMenor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_MayorMenor\obj\Debug\netcoreapp3.1\E_MayorMenor.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_MayorMenor\obj\Debug\netcoreapp3.1\E_MayorMenor.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_MayorMenor\obj\Debug\netcoreapp3.1\E_MayorMenor.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_MayorMenor\obj\Debug\netcoreapp3.1\E_MayorMenor.dll
+D:\Documents\GitHub\ADA_Csh\E_MayorMenor\obj\Debug\netcoreapp3.1\E_MayorMenor.pdb
+D:\Documents\GitHub\ADA_Csh\E_MayorMenor\obj\Debug\netcoreapp3.1\E_MayorMenor.genruntimeconfig.cache
