@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_EcuacionCuad\bin\Debug\netcoreapp3.1\E_EcuacionCuad.exe
+D:\Documents\GitHub\ADA_Csh\E_EcuacionCuad\bin\Debug\netcoreapp3.1\E_EcuacionCuad.deps.json
+D:\Documents\GitHub\ADA_Csh\E_EcuacionCuad\bin\Debug\netcoreapp3.1\E_EcuacionCuad.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_EcuacionCuad\bin\Debug\netcoreapp3.1\E_EcuacionCuad.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_EcuacionCuad\bin\Debug\netcoreapp3.1\E_EcuacionCuad.dll
+D:\Documents\GitHub\ADA_Csh\E_EcuacionCuad\bin\Debug\netcoreapp3.1\E_EcuacionCuad.pdb
+D:\Documents\GitHub\ADA_Csh\E_EcuacionCuad\obj\Debug\netcoreapp3.1\E_EcuacionCuad.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_EcuacionCuad\obj\Debug\netcoreapp3.1\E_EcuacionCuad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_EcuacionCuad\obj\Debug\netcoreapp3.1\E_EcuacionCuad.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_EcuacionCuad\obj\Debug\netcoreapp3.1\E_EcuacionCuad.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_EcuacionCuad\obj\Debug\netcoreapp3.1\E_EcuacionCuad.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_EcuacionCuad\obj\Debug\netcoreapp3.1\E_EcuacionCuad.dll
+D:\Documents\GitHub\ADA_Csh\E_EcuacionCuad\obj\Debug\netcoreapp3.1\E_EcuacionCuad.pdb
+D:\Documents\GitHub\ADA_Csh\E_EcuacionCuad\obj\Debug\netcoreapp3.1\E_EcuacionCuad.genruntimeconfig.cache
