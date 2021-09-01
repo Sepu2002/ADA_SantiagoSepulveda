@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_AcomodaTresNum\bin\Debug\netcoreapp3.1\E_AcomodaTresNum.exe
+D:\Documents\GitHub\ADA_Csh\E_AcomodaTresNum\bin\Debug\netcoreapp3.1\E_AcomodaTresNum.deps.json
+D:\Documents\GitHub\ADA_Csh\E_AcomodaTresNum\bin\Debug\netcoreapp3.1\E_AcomodaTresNum.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_AcomodaTresNum\bin\Debug\netcoreapp3.1\E_AcomodaTresNum.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_AcomodaTresNum\bin\Debug\netcoreapp3.1\E_AcomodaTresNum.dll
+D:\Documents\GitHub\ADA_Csh\E_AcomodaTresNum\bin\Debug\netcoreapp3.1\E_AcomodaTresNum.pdb
+D:\Documents\GitHub\ADA_Csh\E_AcomodaTresNum\obj\Debug\netcoreapp3.1\E_AcomodaTresNum.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_AcomodaTresNum\obj\Debug\netcoreapp3.1\E_AcomodaTresNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_AcomodaTresNum\obj\Debug\netcoreapp3.1\E_AcomodaTresNum.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_AcomodaTresNum\obj\Debug\netcoreapp3.1\E_AcomodaTresNum.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_AcomodaTresNum\obj\Debug\netcoreapp3.1\E_AcomodaTresNum.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_AcomodaTresNum\obj\Debug\netcoreapp3.1\E_AcomodaTresNum.dll
+D:\Documents\GitHub\ADA_Csh\E_AcomodaTresNum\obj\Debug\netcoreapp3.1\E_AcomodaTresNum.pdb
+D:\Documents\GitHub\ADA_Csh\E_AcomodaTresNum\obj\Debug\netcoreapp3.1\E_AcomodaTresNum.genruntimeconfig.cache

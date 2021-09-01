@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_Romanos\obj\Debug\netcoreapp3.1\E_Romanos.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_Romanos\obj\Debug\netcoreapp3.1\E_Romanos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_Romanos\obj\Debug\netcoreapp3.1\E_Romanos.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_Romanos\obj\Debug\netcoreapp3.1\E_Romanos.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_Romanos\obj\Debug\netcoreapp3.1\E_Romanos.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_Romanos\bin\Debug\netcoreapp3.1\E_Romanos.exe
+D:\Documents\GitHub\ADA_Csh\E_Romanos\bin\Debug\netcoreapp3.1\E_Romanos.deps.json
+D:\Documents\GitHub\ADA_Csh\E_Romanos\bin\Debug\netcoreapp3.1\E_Romanos.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_Romanos\bin\Debug\netcoreapp3.1\E_Romanos.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_Romanos\bin\Debug\netcoreapp3.1\E_Romanos.dll
+D:\Documents\GitHub\ADA_Csh\E_Romanos\bin\Debug\netcoreapp3.1\E_Romanos.pdb
+D:\Documents\GitHub\ADA_Csh\E_Romanos\obj\Debug\netcoreapp3.1\E_Romanos.dll
+D:\Documents\GitHub\ADA_Csh\E_Romanos\obj\Debug\netcoreapp3.1\E_Romanos.pdb
+D:\Documents\GitHub\ADA_Csh\E_Romanos\obj\Debug\netcoreapp3.1\E_Romanos.genruntimeconfig.cache

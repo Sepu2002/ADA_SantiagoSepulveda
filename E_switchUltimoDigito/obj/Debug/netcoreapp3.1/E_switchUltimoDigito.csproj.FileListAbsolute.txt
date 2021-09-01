@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_switchUltimoDigito\bin\Debug\netcoreapp3.1\E_switchUltimoDigito.exe
+D:\Documents\GitHub\ADA_Csh\E_switchUltimoDigito\bin\Debug\netcoreapp3.1\E_switchUltimoDigito.deps.json
+D:\Documents\GitHub\ADA_Csh\E_switchUltimoDigito\bin\Debug\netcoreapp3.1\E_switchUltimoDigito.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_switchUltimoDigito\bin\Debug\netcoreapp3.1\E_switchUltimoDigito.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_switchUltimoDigito\bin\Debug\netcoreapp3.1\E_switchUltimoDigito.dll
+D:\Documents\GitHub\ADA_Csh\E_switchUltimoDigito\bin\Debug\netcoreapp3.1\E_switchUltimoDigito.pdb
+D:\Documents\GitHub\ADA_Csh\E_switchUltimoDigito\obj\Debug\netcoreapp3.1\E_switchUltimoDigito.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_switchUltimoDigito\obj\Debug\netcoreapp3.1\E_switchUltimoDigito.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_switchUltimoDigito\obj\Debug\netcoreapp3.1\E_switchUltimoDigito.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_switchUltimoDigito\obj\Debug\netcoreapp3.1\E_switchUltimoDigito.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_switchUltimoDigito\obj\Debug\netcoreapp3.1\E_switchUltimoDigito.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_switchUltimoDigito\obj\Debug\netcoreapp3.1\E_switchUltimoDigito.dll
+D:\Documents\GitHub\ADA_Csh\E_switchUltimoDigito\obj\Debug\netcoreapp3.1\E_switchUltimoDigito.pdb
+D:\Documents\GitHub\ADA_Csh\E_switchUltimoDigito\obj\Debug\netcoreapp3.1\E_switchUltimoDigito.genruntimeconfig.cache

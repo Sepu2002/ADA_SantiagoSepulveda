@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_AñoBisiesto_\bin\Debug\netcoreapp3.1\E_AñoBisiesto_.exe
+D:\Documents\GitHub\ADA_Csh\E_AñoBisiesto_\bin\Debug\netcoreapp3.1\E_AñoBisiesto_.deps.json
+D:\Documents\GitHub\ADA_Csh\E_AñoBisiesto_\bin\Debug\netcoreapp3.1\E_AñoBisiesto_.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_AñoBisiesto_\bin\Debug\netcoreapp3.1\E_AñoBisiesto_.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_AñoBisiesto_\bin\Debug\netcoreapp3.1\E_AñoBisiesto_.dll
+D:\Documents\GitHub\ADA_Csh\E_AñoBisiesto_\bin\Debug\netcoreapp3.1\E_AñoBisiesto_.pdb
+D:\Documents\GitHub\ADA_Csh\E_AñoBisiesto_\obj\Debug\netcoreapp3.1\E_AñoBisiesto_.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_AñoBisiesto_\obj\Debug\netcoreapp3.1\E_AñoBisiesto_.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_AñoBisiesto_\obj\Debug\netcoreapp3.1\E_AñoBisiesto_.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_AñoBisiesto_\obj\Debug\netcoreapp3.1\E_AñoBisiesto_.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_AñoBisiesto_\obj\Debug\netcoreapp3.1\E_AñoBisiesto_.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_AñoBisiesto_\obj\Debug\netcoreapp3.1\E_AñoBisiesto_.dll
+D:\Documents\GitHub\ADA_Csh\E_AñoBisiesto_\obj\Debug\netcoreapp3.1\E_AñoBisiesto_.pdb
+D:\Documents\GitHub\ADA_Csh\E_AñoBisiesto_\obj\Debug\netcoreapp3.1\E_AñoBisiesto_.genruntimeconfig.cache
