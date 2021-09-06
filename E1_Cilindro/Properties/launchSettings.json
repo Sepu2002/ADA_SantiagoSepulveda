@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "E_AñoBisiesto_": {
+      "commandName": "Project"
+    },
+    "csui": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\sslpa\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe",
+      "commandLineArgs": "dotnet.exe run -p D:\\Documents\\GitHub\\ADA_Csh\\E1_Cilindro\\E1_Cilindro.csproj",
+      "workingDirectory": "D:\\Documents\\GitHub\\ADA_Csh\\E1_Cilindro",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

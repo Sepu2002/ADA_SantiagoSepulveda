@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_ContadorUnoN\bin\Debug\netcoreapp3.1\E_ContadorUnoN.exe
+D:\Documents\GitHub\ADA_Csh\E_ContadorUnoN\bin\Debug\netcoreapp3.1\E_ContadorUnoN.deps.json
+D:\Documents\GitHub\ADA_Csh\E_ContadorUnoN\bin\Debug\netcoreapp3.1\E_ContadorUnoN.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_ContadorUnoN\bin\Debug\netcoreapp3.1\E_ContadorUnoN.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_ContadorUnoN\bin\Debug\netcoreapp3.1\E_ContadorUnoN.dll
+D:\Documents\GitHub\ADA_Csh\E_ContadorUnoN\bin\Debug\netcoreapp3.1\E_ContadorUnoN.pdb
+D:\Documents\GitHub\ADA_Csh\E_ContadorUnoN\obj\Debug\netcoreapp3.1\E_ContadorUnoN.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_ContadorUnoN\obj\Debug\netcoreapp3.1\E_ContadorUnoN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_ContadorUnoN\obj\Debug\netcoreapp3.1\E_ContadorUnoN.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_ContadorUnoN\obj\Debug\netcoreapp3.1\E_ContadorUnoN.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_ContadorUnoN\obj\Debug\netcoreapp3.1\E_ContadorUnoN.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_ContadorUnoN\obj\Debug\netcoreapp3.1\E_ContadorUnoN.dll
+D:\Documents\GitHub\ADA_Csh\E_ContadorUnoN\obj\Debug\netcoreapp3.1\E_ContadorUnoN.pdb
+D:\Documents\GitHub\ADA_Csh\E_ContadorUnoN\obj\Debug\netcoreapp3.1\E_ContadorUnoN.genruntimeconfig.cache
