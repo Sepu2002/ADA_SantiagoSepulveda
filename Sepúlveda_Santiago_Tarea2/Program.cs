@@ -8,19 +8,19 @@ namespace E_ContadorUnoN
         {
             int n, num;
             int sum, max, min;
-            double prom, sumd, nd;
+            double prom, sumd, nd, promp;
             max = 0;
             min = 99;
             sum = 0;
             prom = 0;
-
+            promp = 0;
             Console.WriteLine("Programa que que escribe un rango de números y sus cuadrados: ");
             Console.WriteLine("Escriba número de iteraciones:");
             n = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Escriba cada número y presione <enter>:");
-            Console.WriteLine("\t\t\t\t\t\t--------------------------");
-            Console.WriteLine("\t\t\t\t\t\t|Paso | max | min | sum | ");
-            Console.WriteLine("\t\t\t\t\t\t--------------------------");
+            Console.WriteLine("\t\t\t\t\t\t--------------------------------");
+            Console.WriteLine("\t\t\t\t\t\t|Paso | max | min | sum | prom | ");
+            Console.WriteLine("\t\t\t\t\t\t--------------------------------");
             
             for (int count = 1; count <= n; count++) {
                 
@@ -33,9 +33,10 @@ namespace E_ContadorUnoN
                     max = num;
                 }
                 sum = sum + num;
-                Console.WriteLine("\t\t\t\t\t\t--------------------------");
-                Console.WriteLine("\t\t\t\t\t\t |{0}  |  {1}  |  {2}  |  {3}| ", count, max, min, sum);
-                Console.WriteLine("\t\t\t\t\t\t--------------------------");
+                promp = sum / count;
+                Console.WriteLine("\t\t\t\t\t\t--------------------------------");
+                Console.WriteLine("\t\t\t\t\t\t |{0}  |  {1}  |  {2}  |  {3}  |  {4}| ", count, max, min, sum, promp);
+                Console.WriteLine("\t\t\t\t\t\t--------------------------------");
             }
 
             sumd = Convert.ToDouble(sum);
