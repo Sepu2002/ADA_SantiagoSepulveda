@@ -22,6 +22,14 @@ namespace E_AdivinaNum
                 {
                     Console.WriteLine("Es menos que eso");
                     tri = tri + 1;
+                    Console.WriteLine("   ;;;;;");
+                    Console.WriteLine("   ;;;;;");
+                    Console.WriteLine("   ;;;;;");
+                    Console.WriteLine("   ;;;;;");
+                    Console.WriteLine("   ;;;;;");
+                    Console.WriteLine(" ..;;;;;..");
+                    Console.WriteLine("  ':::::'");
+                    Console.WriteLine("    ':`");
                     Console.WriteLine("oprima <enter> ");
                     string espera = Console.ReadLine();
                     Console.Clear();
@@ -29,6 +37,14 @@ namespace E_AdivinaNum
                 if (inp < randnum) {
                     Console.WriteLine("Es más que eso");
                     tri = tri + 1;
+                    Console.WriteLine("     .");
+                    Console.WriteLine("   .:;:.");
+                    Console.WriteLine(" .:;;;;;:.");
+                    Console.WriteLine("   ;;;;;");
+                    Console.WriteLine("   ;;;;;");
+                    Console.WriteLine("   ;;;;;");
+                    Console.WriteLine("   ;;;;;");
+                    Console.WriteLine("   ;;;;;");
                     Console.WriteLine("oprima <enter> ");
                     string espera = Console.ReadLine();
                     Console.Clear();
@@ -36,6 +52,22 @@ namespace E_AdivinaNum
                 if (inp == randnum) {
                     Console.WriteLine("¡Eso es correcto!");
                     Console.WriteLine("Lo lograste en {0} intentos", tri);
+                    Console.WriteLine("     _______________");
+                    Console.WriteLine("    |@@@@|     |####|");
+                    Console.WriteLine("    |@@@@|     |####|");
+                    Console.WriteLine("    |@@@@|     |####|");
+                    Console.WriteLine("    ;@@@@|     |####;");
+                    Console.WriteLine("     ;@@@|     |###;");
+                    Console.WriteLine("      `@@|_____|##'");
+                    Console.WriteLine("           (O)");
+                    Console.WriteLine("        .-'''''-.");
+                    Console.WriteLine("      .'  * * *  `.");
+                    Console.WriteLine("     :  *       *  :");
+                    Console.WriteLine("    : ~  G O O D  ~ :");
+                    Console.WriteLine("    : ~   J O B   ~ :");
+                    Console.WriteLine("     :  *       *  :");
+                    Console.WriteLine("      `.  * * *  .'");
+                    Console.WriteLine("        `-.....-'");
                     Console.WriteLine("oprima <enter> ");
                     string espera = Console.ReadLine();
                     break;
