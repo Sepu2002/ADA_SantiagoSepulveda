@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_RomanosLoop\bin\Debug\netcoreapp3.1\E_RomanosLoop.exe
+D:\Documents\GitHub\ADA_Csh\E_RomanosLoop\bin\Debug\netcoreapp3.1\E_RomanosLoop.deps.json
+D:\Documents\GitHub\ADA_Csh\E_RomanosLoop\bin\Debug\netcoreapp3.1\E_RomanosLoop.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_RomanosLoop\bin\Debug\netcoreapp3.1\E_RomanosLoop.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_RomanosLoop\bin\Debug\netcoreapp3.1\E_RomanosLoop.dll
+D:\Documents\GitHub\ADA_Csh\E_RomanosLoop\bin\Debug\netcoreapp3.1\E_RomanosLoop.pdb
+D:\Documents\GitHub\ADA_Csh\E_RomanosLoop\obj\Debug\netcoreapp3.1\E_RomanosLoop.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_RomanosLoop\obj\Debug\netcoreapp3.1\E_RomanosLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_RomanosLoop\obj\Debug\netcoreapp3.1\E_RomanosLoop.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_RomanosLoop\obj\Debug\netcoreapp3.1\E_RomanosLoop.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_RomanosLoop\obj\Debug\netcoreapp3.1\E_RomanosLoop.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_RomanosLoop\obj\Debug\netcoreapp3.1\E_RomanosLoop.dll
+D:\Documents\GitHub\ADA_Csh\E_RomanosLoop\obj\Debug\netcoreapp3.1\E_RomanosLoop.pdb
+D:\Documents\GitHub\ADA_Csh\E_RomanosLoop\obj\Debug\netcoreapp3.1\E_RomanosLoop.genruntimeconfig.cache
