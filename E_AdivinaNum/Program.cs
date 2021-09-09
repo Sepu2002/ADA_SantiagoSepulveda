@@ -6,16 +6,34 @@ namespace E_AdivinaNum
     {
         static void Main(string[] args)
         {
-            int tri, randnum, inp;
+            int tri, randnum, inp, max ,level;
             inp = 0;
             tri = 0;
-            Random genAleatorio = new Random();
-            randnum = genAleatorio.Next(1, 999);
-            
+            max = 1;
 
+            Console.WriteLine("Escriba el nivel de dificultad");
+            Console.WriteLine("Nivel Básico (1): 1-50");
+            Console.WriteLine("Nivel Medio (2): 1-500");
+            Console.WriteLine("Nivel Avanzado (3): 1-999");
+            level = Convert.ToInt32(Console.ReadLine());
+            Random genAleatorio = new Random();
+            switch(level)
+            {
+               case 1:
+                    max = 50;
+                    break;
+               case 2:
+                    max = 100;
+                    break;
+               case 3:
+                    max = 999;
+                    break;
+            }
+
+            randnum = genAleatorio.Next(1, max);
             while (true)
             {
-                Console.WriteLine("Juego para que usuario adivine un número del 0 al 999");
+                Console.WriteLine("Juego para que usuario adivine un número de 1 a {0}", max);
                 Console.WriteLine("Escriba el número que crea que es");
                 inp = Convert.ToInt32(Console.ReadLine());
                 if (inp > randnum)
