@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sslpa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sslpa\\.nuget\\packages"
+    ]
+  }
+}

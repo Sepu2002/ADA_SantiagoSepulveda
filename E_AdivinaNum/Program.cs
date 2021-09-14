@@ -23,7 +23,7 @@ namespace E_AdivinaNum
                     max = 50;
                     break;
                case 2:
-                    max = 100;
+                    max = 500;
                     break;
                case 3:
                     max = 999;

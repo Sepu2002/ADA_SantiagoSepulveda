@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_DivPrimos\bin\Debug\netcoreapp3.1\E_DivPrimos.exe
+D:\Documents\GitHub\ADA_Csh\E_DivPrimos\bin\Debug\netcoreapp3.1\E_DivPrimos.deps.json
+D:\Documents\GitHub\ADA_Csh\E_DivPrimos\bin\Debug\netcoreapp3.1\E_DivPrimos.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_DivPrimos\bin\Debug\netcoreapp3.1\E_DivPrimos.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_DivPrimos\bin\Debug\netcoreapp3.1\E_DivPrimos.dll
+D:\Documents\GitHub\ADA_Csh\E_DivPrimos\bin\Debug\netcoreapp3.1\E_DivPrimos.pdb
+D:\Documents\GitHub\ADA_Csh\E_DivPrimos\obj\Debug\netcoreapp3.1\E_DivPrimos.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_DivPrimos\obj\Debug\netcoreapp3.1\E_DivPrimos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_DivPrimos\obj\Debug\netcoreapp3.1\E_DivPrimos.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_DivPrimos\obj\Debug\netcoreapp3.1\E_DivPrimos.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_DivPrimos\obj\Debug\netcoreapp3.1\E_DivPrimos.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_DivPrimos\obj\Debug\netcoreapp3.1\E_DivPrimos.dll
+D:\Documents\GitHub\ADA_Csh\E_DivPrimos\obj\Debug\netcoreapp3.1\E_DivPrimos.pdb
+D:\Documents\GitHub\ADA_Csh\E_DivPrimos\obj\Debug\netcoreapp3.1\E_DivPrimos.genruntimeconfig.cache
