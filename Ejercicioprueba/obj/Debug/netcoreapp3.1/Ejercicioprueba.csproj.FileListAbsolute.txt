@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\Ejercicioprueba\bin\Debug\netcoreapp3.1\Ejercicioprueba.exe
+D:\Documents\GitHub\ADA_Csh\Ejercicioprueba\bin\Debug\netcoreapp3.1\Ejercicioprueba.deps.json
+D:\Documents\GitHub\ADA_Csh\Ejercicioprueba\bin\Debug\netcoreapp3.1\Ejercicioprueba.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\Ejercicioprueba\bin\Debug\netcoreapp3.1\Ejercicioprueba.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\Ejercicioprueba\bin\Debug\netcoreapp3.1\Ejercicioprueba.dll
+D:\Documents\GitHub\ADA_Csh\Ejercicioprueba\bin\Debug\netcoreapp3.1\Ejercicioprueba.pdb
+D:\Documents\GitHub\ADA_Csh\Ejercicioprueba\obj\Debug\netcoreapp3.1\Ejercicioprueba.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\Ejercicioprueba\obj\Debug\netcoreapp3.1\Ejercicioprueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\Ejercicioprueba\obj\Debug\netcoreapp3.1\Ejercicioprueba.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\Ejercicioprueba\obj\Debug\netcoreapp3.1\Ejercicioprueba.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\Ejercicioprueba\obj\Debug\netcoreapp3.1\Ejercicioprueba.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\Ejercicioprueba\obj\Debug\netcoreapp3.1\Ejercicioprueba.dll
+D:\Documents\GitHub\ADA_Csh\Ejercicioprueba\obj\Debug\netcoreapp3.1\Ejercicioprueba.pdb
+D:\Documents\GitHub\ADA_Csh\Ejercicioprueba\obj\Debug\netcoreapp3.1\Ejercicioprueba.genruntimeconfig.cache
