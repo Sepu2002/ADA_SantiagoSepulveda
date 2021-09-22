@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace E_SmileReloaded
 {
@@ -29,13 +31,14 @@ namespace E_SmileReloaded
                     case ConsoleKey.RightArrow:
                         if (x <= max_ancho)
                         {
-                            x++;
                             Console.Clear();
+                            x++;
+                            
                             Console.SetCursorPosition(x, y);
                             Console.Write(smile);
-                            Console.SetCursorPosition(102, 27);
+                            Console.SetCursorPosition(60, 27);
                             Console.Write(x + "," + y);
-                            Console.SetCursorPosition(102, 5);
+                            Console.SetCursorPosition(60, 5);
                             Console.Write("Derecha →");
                             Console.SetCursorPosition(x, y);
                         }
@@ -46,13 +49,14 @@ namespace E_SmileReloaded
                     case ConsoleKey.LeftArrow:
                         if (x > 1)
                         {
-                            x--;
                             Console.Clear();
+                            x--;
+                            
                             Console.SetCursorPosition(x, y);
                             Console.Write(smile);
-                            Console.SetCursorPosition(102, 27);
+                            Console.SetCursorPosition(60, 27);
                             Console.Write(x + "," + y);
-                            Console.SetCursorPosition(102, 5);
+                            Console.SetCursorPosition(60, 5);
                             Console.Write("Izquierda ←");
                             Console.SetCursorPosition(x, y);
 
@@ -63,13 +67,14 @@ namespace E_SmileReloaded
                     case ConsoleKey.DownArrow:
                         if (y <= max_alto)
                         {
-                            y++;
                             Console.Clear();
+                            y++;
+                            
                             Console.SetCursorPosition(x, y);
                             Console.Write(smile);
-                            Console.SetCursorPosition(102, 27);
+                            Console.SetCursorPosition(60, 27);
                             Console.Write(x + "," + y);
-                            Console.SetCursorPosition(102, 5);
+                            Console.SetCursorPosition(60, 5);
                             Console.Write("Abajo ↓");
                             Console.SetCursorPosition(x, y);
 
@@ -80,13 +85,14 @@ namespace E_SmileReloaded
                     case ConsoleKey.UpArrow:
                         if (y > 1)
                         {
-                            y--;
                             Console.Clear();
+                            y--;
+                            
                             Console.SetCursorPosition(x, y);
                             Console.Write(smile);
-                            Console.SetCursorPosition(102, 27);
+                            Console.SetCursorPosition(60, 27);
                             Console.Write(x + "," + y);
-                            Console.SetCursorPosition(102, 5);
+                            Console.SetCursorPosition(60, 5);
                             Console.Write("Arriba ↑");
                             Console.SetCursorPosition(x, y);
 
@@ -103,9 +109,9 @@ namespace E_SmileReloaded
                         y = randy;
                         Console.SetCursorPosition(x, y);
                         Console.Write(smile);
-                        Console.SetCursorPosition(102, 27);
+                        Console.SetCursorPosition(60, 27);
                         Console.Write(x + "," + y);
-                        Console.SetCursorPosition(102, 5);
+                        Console.SetCursorPosition(60, 5);
                         Console.Write("Aleatorio");
                         Console.SetCursorPosition(x, y);
                         break;
@@ -123,11 +129,13 @@ namespace E_SmileReloaded
                                     //Console.Clear();
                                     Console.SetCursorPosition(x, y);
                                     Console.Write(smile);
-                                    Console.SetCursorPosition(102, 27);
+                                    Console.SetCursorPosition(60, 27);
                                     Console.Write(x + "," + y);
-                                    Console.SetCursorPosition(102, 5);
-                                    Console.Write("Derecha →");
-                                    
+                                    Console.SetCursorPosition(60, 5);
+                                    Console.Write("Derecha");
+                                    Console.SetCursorPosition(x, y);
+                                    Task.Delay(300);
+
                                 }
                                 break;
 
@@ -136,13 +144,15 @@ namespace E_SmileReloaded
                                 {
                                     x--;
                                     //Console.Clear();
+                                    
                                     Console.SetCursorPosition(x, y);
                                     Console.Write(smile);
-                                    Console.SetCursorPosition(102, 27);
+                                    Console.SetCursorPosition(60, 27);
                                     Console.Write(x + "," + y);
-                                    Console.SetCursorPosition(102, 5);
-                                    Console.Write("Izquierda ←");
-                                    
+                                    Console.SetCursorPosition(60, 5);
+                                    Console.Write("Izquierda");
+                                    Console.SetCursorPosition(x, y);
+                                    Task.Delay(300);
 
                                 }
                                 break;
@@ -154,11 +164,12 @@ namespace E_SmileReloaded
                                     //Console.Clear();
                                     Console.SetCursorPosition(x, y);
                                     Console.Write(smile);
-                                    Console.SetCursorPosition(102, 27);
+                                    Console.SetCursorPosition(60, 27);
                                     Console.Write(x + "," + y);
-                                    Console.SetCursorPosition(102, 5);
-                                    Console.Write("Abajo ↓");
-                                    
+                                    Console.SetCursorPosition(60, 5);
+                                    Console.Write("Abajo");
+                                    Console.SetCursorPosition(x, y);
+                                    Task.Delay(300);
 
                                 }
                                 break;
@@ -170,11 +181,12 @@ namespace E_SmileReloaded
                                     //Console.Clear();
                                     Console.SetCursorPosition(x, y);
                                     Console.Write(smile);
-                                    Console.SetCursorPosition(102, 27);
+                                    Console.SetCursorPosition(60, 27);
                                     Console.Write(x + "," + y);
-                                    Console.SetCursorPosition(102, 5);
+                                    Console.SetCursorPosition(60, 5);
                                     Console.Write("Arriba ↑");
-                                    
+                                    Console.SetCursorPosition(x, y);
+                                    Task.Delay(300);
 
                                 }
                                 break;
@@ -184,9 +196,9 @@ namespace E_SmileReloaded
                         Console.Clear();
                         Console.SetCursorPosition(x, y);
                         Console.Write(smile);
-                        Console.SetCursorPosition(102, 27);
+                        Console.SetCursorPosition(60, 27);
                         Console.Write(x + "," + y);
-                        Console.SetCursorPosition(102, 5);
+                        Console.SetCursorPosition(60, 5);
                         Console.Write("Cleared");
                         Console.SetCursorPosition(x, y);
                         break;

@@ -11,6 +11,9 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
+    },
+    "E_SmileReloaded": {
+      "commandName": "Project"
     }
   }
 }
