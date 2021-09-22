@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_SmileReloaded\bin\Debug\netcoreapp3.1\E_SmileReloaded.exe
+D:\Documents\GitHub\ADA_Csh\E_SmileReloaded\bin\Debug\netcoreapp3.1\E_SmileReloaded.deps.json
+D:\Documents\GitHub\ADA_Csh\E_SmileReloaded\bin\Debug\netcoreapp3.1\E_SmileReloaded.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_SmileReloaded\bin\Debug\netcoreapp3.1\E_SmileReloaded.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_SmileReloaded\bin\Debug\netcoreapp3.1\E_SmileReloaded.dll
+D:\Documents\GitHub\ADA_Csh\E_SmileReloaded\bin\Debug\netcoreapp3.1\E_SmileReloaded.pdb
+D:\Documents\GitHub\ADA_Csh\E_SmileReloaded\obj\Debug\netcoreapp3.1\E_SmileReloaded.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_SmileReloaded\obj\Debug\netcoreapp3.1\E_SmileReloaded.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_SmileReloaded\obj\Debug\netcoreapp3.1\E_SmileReloaded.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_SmileReloaded\obj\Debug\netcoreapp3.1\E_SmileReloaded.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_SmileReloaded\obj\Debug\netcoreapp3.1\E_SmileReloaded.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_SmileReloaded\obj\Debug\netcoreapp3.1\E_SmileReloaded.dll
+D:\Documents\GitHub\ADA_Csh\E_SmileReloaded\obj\Debug\netcoreapp3.1\E_SmileReloaded.pdb
+D:\Documents\GitHub\ADA_Csh\E_SmileReloaded\obj\Debug\netcoreapp3.1\E_SmileReloaded.genruntimeconfig.cache
