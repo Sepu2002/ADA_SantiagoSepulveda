@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_SmileXY\bin\Debug\netcoreapp3.1\E_SmileXY.exe
+D:\Documents\GitHub\ADA_Csh\E_SmileXY\bin\Debug\netcoreapp3.1\E_SmileXY.deps.json
+D:\Documents\GitHub\ADA_Csh\E_SmileXY\bin\Debug\netcoreapp3.1\E_SmileXY.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_SmileXY\bin\Debug\netcoreapp3.1\E_SmileXY.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_SmileXY\bin\Debug\netcoreapp3.1\E_SmileXY.dll
+D:\Documents\GitHub\ADA_Csh\E_SmileXY\bin\Debug\netcoreapp3.1\E_SmileXY.pdb
+D:\Documents\GitHub\ADA_Csh\E_SmileXY\obj\Debug\netcoreapp3.1\E_SmileXY.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_SmileXY\obj\Debug\netcoreapp3.1\E_SmileXY.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_SmileXY\obj\Debug\netcoreapp3.1\E_SmileXY.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_SmileXY\obj\Debug\netcoreapp3.1\E_SmileXY.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_SmileXY\obj\Debug\netcoreapp3.1\E_SmileXY.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_SmileXY\obj\Debug\netcoreapp3.1\E_SmileXY.dll
+D:\Documents\GitHub\ADA_Csh\E_SmileXY\obj\Debug\netcoreapp3.1\E_SmileXY.pdb
+D:\Documents\GitHub\ADA_Csh\E_SmileXY\obj\Debug\netcoreapp3.1\E_SmileXY.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "profiles": {
+    "E_AñoBisiesto_": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "csui": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\sslpa\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe",
+      "commandLineArgs": "dotnet.exe run -p D:\\Documents\\GitHub\\ADA_Csh\\E_SmileXY\\E_SmileXY.csproj",
+      "workingDirectory": "D:\\Documents\\GitHub\\ADA_Csh\\E_SmileXY",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "E_SmileXY": {
+      "commandName": "Project"
+    }
+  }
+}

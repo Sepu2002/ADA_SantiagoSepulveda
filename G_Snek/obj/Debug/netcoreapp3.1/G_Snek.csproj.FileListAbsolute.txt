@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\G_Snek\bin\Debug\netcoreapp3.1\G_Snek.exe
+D:\Documents\GitHub\ADA_Csh\G_Snek\bin\Debug\netcoreapp3.1\G_Snek.deps.json
+D:\Documents\GitHub\ADA_Csh\G_Snek\bin\Debug\netcoreapp3.1\G_Snek.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\G_Snek\bin\Debug\netcoreapp3.1\G_Snek.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\G_Snek\bin\Debug\netcoreapp3.1\G_Snek.dll
+D:\Documents\GitHub\ADA_Csh\G_Snek\bin\Debug\netcoreapp3.1\G_Snek.pdb
+D:\Documents\GitHub\ADA_Csh\G_Snek\obj\Debug\netcoreapp3.1\G_Snek.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\G_Snek\obj\Debug\netcoreapp3.1\G_Snek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\G_Snek\obj\Debug\netcoreapp3.1\G_Snek.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\G_Snek\obj\Debug\netcoreapp3.1\G_Snek.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\G_Snek\obj\Debug\netcoreapp3.1\G_Snek.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\G_Snek\obj\Debug\netcoreapp3.1\G_Snek.dll
+D:\Documents\GitHub\ADA_Csh\G_Snek\obj\Debug\netcoreapp3.1\G_Snek.pdb
+D:\Documents\GitHub\ADA_Csh\G_Snek\obj\Debug\netcoreapp3.1\G_Snek.genruntimeconfig.cache
