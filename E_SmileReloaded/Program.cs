@@ -192,7 +192,7 @@ namespace E_SmileReloaded
                                 break;
                         }
                         break;
-                    case ConsoleKey.Spacebar:
+                    case ConsoleKey.Enter:
                         Console.Clear();
                         Console.SetCursorPosition(x, y);
                         Console.Write(smile);
