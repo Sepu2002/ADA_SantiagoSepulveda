@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_ConejosFib\bin\Debug\netcoreapp3.1\E_ConejosFib.exe
+D:\Documents\GitHub\ADA_Csh\E_ConejosFib\bin\Debug\netcoreapp3.1\E_ConejosFib.deps.json
+D:\Documents\GitHub\ADA_Csh\E_ConejosFib\bin\Debug\netcoreapp3.1\E_ConejosFib.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_ConejosFib\bin\Debug\netcoreapp3.1\E_ConejosFib.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_ConejosFib\bin\Debug\netcoreapp3.1\E_ConejosFib.dll
+D:\Documents\GitHub\ADA_Csh\E_ConejosFib\bin\Debug\netcoreapp3.1\E_ConejosFib.pdb
+D:\Documents\GitHub\ADA_Csh\E_ConejosFib\obj\Debug\netcoreapp3.1\E_ConejosFib.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_ConejosFib\obj\Debug\netcoreapp3.1\E_ConejosFib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_ConejosFib\obj\Debug\netcoreapp3.1\E_ConejosFib.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_ConejosFib\obj\Debug\netcoreapp3.1\E_ConejosFib.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_ConejosFib\obj\Debug\netcoreapp3.1\E_ConejosFib.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_ConejosFib\obj\Debug\netcoreapp3.1\E_ConejosFib.dll
+D:\Documents\GitHub\ADA_Csh\E_ConejosFib\obj\Debug\netcoreapp3.1\E_ConejosFib.pdb
+D:\Documents\GitHub\ADA_Csh\E_ConejosFib\obj\Debug\netcoreapp3.1\E_ConejosFib.genruntimeconfig.cache

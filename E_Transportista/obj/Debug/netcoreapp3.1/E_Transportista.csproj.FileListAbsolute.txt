@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_Transportista\bin\Debug\netcoreapp3.1\E_Transportista.exe
+D:\Documents\GitHub\ADA_Csh\E_Transportista\bin\Debug\netcoreapp3.1\E_Transportista.deps.json
+D:\Documents\GitHub\ADA_Csh\E_Transportista\bin\Debug\netcoreapp3.1\E_Transportista.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_Transportista\bin\Debug\netcoreapp3.1\E_Transportista.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_Transportista\bin\Debug\netcoreapp3.1\E_Transportista.dll
+D:\Documents\GitHub\ADA_Csh\E_Transportista\bin\Debug\netcoreapp3.1\E_Transportista.pdb
+D:\Documents\GitHub\ADA_Csh\E_Transportista\obj\Debug\netcoreapp3.1\E_Transportista.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_Transportista\obj\Debug\netcoreapp3.1\E_Transportista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_Transportista\obj\Debug\netcoreapp3.1\E_Transportista.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_Transportista\obj\Debug\netcoreapp3.1\E_Transportista.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_Transportista\obj\Debug\netcoreapp3.1\E_Transportista.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_Transportista\obj\Debug\netcoreapp3.1\E_Transportista.dll
+D:\Documents\GitHub\ADA_Csh\E_Transportista\obj\Debug\netcoreapp3.1\E_Transportista.pdb
+D:\Documents\GitHub\ADA_Csh\E_Transportista\obj\Debug\netcoreapp3.1\E_Transportista.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_Funciones2\bin\Debug\netcoreapp3.1\E_Funciones2.exe
+D:\Documents\GitHub\ADA_Csh\E_Funciones2\bin\Debug\netcoreapp3.1\E_Funciones2.deps.json
+D:\Documents\GitHub\ADA_Csh\E_Funciones2\bin\Debug\netcoreapp3.1\E_Funciones2.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_Funciones2\bin\Debug\netcoreapp3.1\E_Funciones2.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_Funciones2\bin\Debug\netcoreapp3.1\E_Funciones2.dll
+D:\Documents\GitHub\ADA_Csh\E_Funciones2\bin\Debug\netcoreapp3.1\E_Funciones2.pdb
+D:\Documents\GitHub\ADA_Csh\E_Funciones2\obj\Debug\netcoreapp3.1\E_Funciones2.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_Funciones2\obj\Debug\netcoreapp3.1\E_Funciones2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_Funciones2\obj\Debug\netcoreapp3.1\E_Funciones2.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_Funciones2\obj\Debug\netcoreapp3.1\E_Funciones2.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_Funciones2\obj\Debug\netcoreapp3.1\E_Funciones2.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_Funciones2\obj\Debug\netcoreapp3.1\E_Funciones2.dll
+D:\Documents\GitHub\ADA_Csh\E_Funciones2\obj\Debug\netcoreapp3.1\E_Funciones2.pdb
+D:\Documents\GitHub\ADA_Csh\E_Funciones2\obj\Debug\netcoreapp3.1\E_Funciones2.genruntimeconfig.cache

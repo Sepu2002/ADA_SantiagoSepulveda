@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_Recursivo\bin\Debug\netcoreapp3.1\E_Recursivo.exe
+D:\Documents\GitHub\ADA_Csh\E_Recursivo\bin\Debug\netcoreapp3.1\E_Recursivo.deps.json
+D:\Documents\GitHub\ADA_Csh\E_Recursivo\bin\Debug\netcoreapp3.1\E_Recursivo.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_Recursivo\bin\Debug\netcoreapp3.1\E_Recursivo.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_Recursivo\bin\Debug\netcoreapp3.1\E_Recursivo.dll
+D:\Documents\GitHub\ADA_Csh\E_Recursivo\bin\Debug\netcoreapp3.1\E_Recursivo.pdb
+D:\Documents\GitHub\ADA_Csh\E_Recursivo\obj\Debug\netcoreapp3.1\E_Recursivo.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_Recursivo\obj\Debug\netcoreapp3.1\E_Recursivo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_Recursivo\obj\Debug\netcoreapp3.1\E_Recursivo.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_Recursivo\obj\Debug\netcoreapp3.1\E_Recursivo.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_Recursivo\obj\Debug\netcoreapp3.1\E_Recursivo.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_Recursivo\obj\Debug\netcoreapp3.1\E_Recursivo.dll
+D:\Documents\GitHub\ADA_Csh\E_Recursivo\obj\Debug\netcoreapp3.1\E_Recursivo.pdb
+D:\Documents\GitHub\ADA_Csh\E_Recursivo\obj\Debug\netcoreapp3.1\E_Recursivo.genruntimeconfig.cache

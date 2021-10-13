@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\T_MetodosAlternos\bin\Debug\netcoreapp3.1\T_MetodosAlternos.exe
+D:\Documents\GitHub\ADA_Csh\T_MetodosAlternos\bin\Debug\netcoreapp3.1\T_MetodosAlternos.deps.json
+D:\Documents\GitHub\ADA_Csh\T_MetodosAlternos\bin\Debug\netcoreapp3.1\T_MetodosAlternos.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\T_MetodosAlternos\bin\Debug\netcoreapp3.1\T_MetodosAlternos.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\T_MetodosAlternos\bin\Debug\netcoreapp3.1\T_MetodosAlternos.dll
+D:\Documents\GitHub\ADA_Csh\T_MetodosAlternos\bin\Debug\netcoreapp3.1\T_MetodosAlternos.pdb
+D:\Documents\GitHub\ADA_Csh\T_MetodosAlternos\obj\Debug\netcoreapp3.1\T_MetodosAlternos.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\T_MetodosAlternos\obj\Debug\netcoreapp3.1\T_MetodosAlternos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\T_MetodosAlternos\obj\Debug\netcoreapp3.1\T_MetodosAlternos.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\T_MetodosAlternos\obj\Debug\netcoreapp3.1\T_MetodosAlternos.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\T_MetodosAlternos\obj\Debug\netcoreapp3.1\T_MetodosAlternos.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\T_MetodosAlternos\obj\Debug\netcoreapp3.1\T_MetodosAlternos.dll
+D:\Documents\GitHub\ADA_Csh\T_MetodosAlternos\obj\Debug\netcoreapp3.1\T_MetodosAlternos.pdb
+D:\Documents\GitHub\ADA_Csh\T_MetodosAlternos\obj\Debug\netcoreapp3.1\T_MetodosAlternos.genruntimeconfig.cache

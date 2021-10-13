@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_SimpleMenu\bin\Debug\netcoreapp3.1\E_SimpleMenu.exe
+D:\Documents\GitHub\ADA_Csh\E_SimpleMenu\bin\Debug\netcoreapp3.1\E_SimpleMenu.deps.json
+D:\Documents\GitHub\ADA_Csh\E_SimpleMenu\bin\Debug\netcoreapp3.1\E_SimpleMenu.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_SimpleMenu\bin\Debug\netcoreapp3.1\E_SimpleMenu.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_SimpleMenu\bin\Debug\netcoreapp3.1\E_SimpleMenu.dll
+D:\Documents\GitHub\ADA_Csh\E_SimpleMenu\bin\Debug\netcoreapp3.1\E_SimpleMenu.pdb
+D:\Documents\GitHub\ADA_Csh\E_SimpleMenu\obj\Debug\netcoreapp3.1\E_SimpleMenu.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_SimpleMenu\obj\Debug\netcoreapp3.1\E_SimpleMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_SimpleMenu\obj\Debug\netcoreapp3.1\E_SimpleMenu.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_SimpleMenu\obj\Debug\netcoreapp3.1\E_SimpleMenu.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_SimpleMenu\obj\Debug\netcoreapp3.1\E_SimpleMenu.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_SimpleMenu\obj\Debug\netcoreapp3.1\E_SimpleMenu.dll
+D:\Documents\GitHub\ADA_Csh\E_SimpleMenu\obj\Debug\netcoreapp3.1\E_SimpleMenu.pdb
+D:\Documents\GitHub\ADA_Csh\E_SimpleMenu\obj\Debug\netcoreapp3.1\E_SimpleMenu.genruntimeconfig.cache
