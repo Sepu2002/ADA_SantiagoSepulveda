@@ -110,10 +110,11 @@ namespace T_MetodosAlternos
         public static long Factorialit(int num) {
             long n = 1;
             for (int i = num; i >= 1; i--) {
-                if (i == 1)
+                if (i == 1||i==0)
                 {
-                    Console.Write("{0}", i);
+                    Console.Write("1");
                 }
+                
                 else
                 {
                     Console.Write("{0} * ", i);
