@@ -58,7 +58,7 @@ namespace T_MetodosAlternos
                     }
                     else {
                         int n = askint("Escriba un número: ");
-                        long resf = SumN(n);
+                        long resf = SumNit(n);
                         Console.Write(" = {0}\n", resf);
                     }
 
@@ -146,7 +146,7 @@ namespace T_MetodosAlternos
                 }
                 else
                 {
-                    Console.Write("{0} * ", i);
+                    Console.Write("{0} + ", i);
                     n = n + i;
                 }
             }
