@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_ArrayDice\bin\Debug\netcoreapp3.1\E_ArrayDice.exe
+D:\Documents\GitHub\ADA_Csh\E_ArrayDice\bin\Debug\netcoreapp3.1\E_ArrayDice.deps.json
+D:\Documents\GitHub\ADA_Csh\E_ArrayDice\bin\Debug\netcoreapp3.1\E_ArrayDice.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_ArrayDice\bin\Debug\netcoreapp3.1\E_ArrayDice.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_ArrayDice\bin\Debug\netcoreapp3.1\E_ArrayDice.dll
+D:\Documents\GitHub\ADA_Csh\E_ArrayDice\bin\Debug\netcoreapp3.1\E_ArrayDice.pdb
+D:\Documents\GitHub\ADA_Csh\E_ArrayDice\obj\Debug\netcoreapp3.1\E_ArrayDice.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_ArrayDice\obj\Debug\netcoreapp3.1\E_ArrayDice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_ArrayDice\obj\Debug\netcoreapp3.1\E_ArrayDice.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_ArrayDice\obj\Debug\netcoreapp3.1\E_ArrayDice.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_ArrayDice\obj\Debug\netcoreapp3.1\E_ArrayDice.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_ArrayDice\obj\Debug\netcoreapp3.1\E_ArrayDice.dll
+D:\Documents\GitHub\ADA_Csh\E_ArrayDice\obj\Debug\netcoreapp3.1\E_ArrayDice.pdb
+D:\Documents\GitHub\ADA_Csh\E_ArrayDice\obj\Debug\netcoreapp3.1\E_ArrayDice.genruntimeconfig.cache
