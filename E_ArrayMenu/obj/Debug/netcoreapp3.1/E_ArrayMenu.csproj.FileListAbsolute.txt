@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_ArrayMenu\bin\Debug\netcoreapp3.1\E_ArrayMenu.exe
+D:\Documents\GitHub\ADA_Csh\E_ArrayMenu\bin\Debug\netcoreapp3.1\E_ArrayMenu.deps.json
+D:\Documents\GitHub\ADA_Csh\E_ArrayMenu\bin\Debug\netcoreapp3.1\E_ArrayMenu.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_ArrayMenu\bin\Debug\netcoreapp3.1\E_ArrayMenu.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_ArrayMenu\bin\Debug\netcoreapp3.1\E_ArrayMenu.dll
+D:\Documents\GitHub\ADA_Csh\E_ArrayMenu\bin\Debug\netcoreapp3.1\E_ArrayMenu.pdb
+D:\Documents\GitHub\ADA_Csh\E_ArrayMenu\obj\Debug\netcoreapp3.1\E_ArrayMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_ArrayMenu\obj\Debug\netcoreapp3.1\E_ArrayMenu.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_ArrayMenu\obj\Debug\netcoreapp3.1\E_ArrayMenu.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_ArrayMenu\obj\Debug\netcoreapp3.1\E_ArrayMenu.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_ArrayMenu\obj\Debug\netcoreapp3.1\E_ArrayMenu.dll
+D:\Documents\GitHub\ADA_Csh\E_ArrayMenu\obj\Debug\netcoreapp3.1\E_ArrayMenu.pdb
+D:\Documents\GitHub\ADA_Csh\E_ArrayMenu\obj\Debug\netcoreapp3.1\E_ArrayMenu.genruntimeconfig.cache
+D:\Documents\GitHub\ADA_Csh\E_ArrayMenu\obj\Debug\netcoreapp3.1\E_ArrayMenu.csproj.AssemblyReference.cache
