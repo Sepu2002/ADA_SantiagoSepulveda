@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_OperacionesArreglos\bin\Debug\netcoreapp3.1\E_OperacionesArreglos.exe
+D:\Documents\GitHub\ADA_Csh\E_OperacionesArreglos\bin\Debug\netcoreapp3.1\E_OperacionesArreglos.deps.json
+D:\Documents\GitHub\ADA_Csh\E_OperacionesArreglos\bin\Debug\netcoreapp3.1\E_OperacionesArreglos.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_OperacionesArreglos\bin\Debug\netcoreapp3.1\E_OperacionesArreglos.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_OperacionesArreglos\bin\Debug\netcoreapp3.1\E_OperacionesArreglos.dll
+D:\Documents\GitHub\ADA_Csh\E_OperacionesArreglos\bin\Debug\netcoreapp3.1\E_OperacionesArreglos.pdb
+D:\Documents\GitHub\ADA_Csh\E_OperacionesArreglos\obj\Debug\netcoreapp3.1\E_OperacionesArreglos.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_OperacionesArreglos\obj\Debug\netcoreapp3.1\E_OperacionesArreglos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_OperacionesArreglos\obj\Debug\netcoreapp3.1\E_OperacionesArreglos.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_OperacionesArreglos\obj\Debug\netcoreapp3.1\E_OperacionesArreglos.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_OperacionesArreglos\obj\Debug\netcoreapp3.1\E_OperacionesArreglos.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_OperacionesArreglos\obj\Debug\netcoreapp3.1\E_OperacionesArreglos.dll
+D:\Documents\GitHub\ADA_Csh\E_OperacionesArreglos\obj\Debug\netcoreapp3.1\E_OperacionesArreglos.pdb
+D:\Documents\GitHub\ADA_Csh\E_OperacionesArreglos\obj\Debug\netcoreapp3.1\E_OperacionesArreglos.genruntimeconfig.cache

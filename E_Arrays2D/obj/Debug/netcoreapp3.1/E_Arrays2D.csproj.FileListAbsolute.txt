@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_Arrays2D\bin\Debug\netcoreapp3.1\E_Arrays2D.exe
+D:\Documents\GitHub\ADA_Csh\E_Arrays2D\bin\Debug\netcoreapp3.1\E_Arrays2D.deps.json
+D:\Documents\GitHub\ADA_Csh\E_Arrays2D\bin\Debug\netcoreapp3.1\E_Arrays2D.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_Arrays2D\bin\Debug\netcoreapp3.1\E_Arrays2D.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_Arrays2D\bin\Debug\netcoreapp3.1\E_Arrays2D.dll
+D:\Documents\GitHub\ADA_Csh\E_Arrays2D\bin\Debug\netcoreapp3.1\E_Arrays2D.pdb
+D:\Documents\GitHub\ADA_Csh\E_Arrays2D\obj\Debug\netcoreapp3.1\E_Arrays2D.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_Arrays2D\obj\Debug\netcoreapp3.1\E_Arrays2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_Arrays2D\obj\Debug\netcoreapp3.1\E_Arrays2D.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_Arrays2D\obj\Debug\netcoreapp3.1\E_Arrays2D.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_Arrays2D\obj\Debug\netcoreapp3.1\E_Arrays2D.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_Arrays2D\obj\Debug\netcoreapp3.1\E_Arrays2D.dll
+D:\Documents\GitHub\ADA_Csh\E_Arrays2D\obj\Debug\netcoreapp3.1\E_Arrays2D.pdb
+D:\Documents\GitHub\ADA_Csh\E_Arrays2D\obj\Debug\netcoreapp3.1\E_Arrays2D.genruntimeconfig.cache

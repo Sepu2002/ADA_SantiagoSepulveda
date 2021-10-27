@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_Array3D\bin\Debug\netcoreapp3.1\E_Array3D.exe
+D:\Documents\GitHub\ADA_Csh\E_Array3D\bin\Debug\netcoreapp3.1\E_Array3D.deps.json
+D:\Documents\GitHub\ADA_Csh\E_Array3D\bin\Debug\netcoreapp3.1\E_Array3D.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_Array3D\bin\Debug\netcoreapp3.1\E_Array3D.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_Array3D\bin\Debug\netcoreapp3.1\E_Array3D.dll
+D:\Documents\GitHub\ADA_Csh\E_Array3D\bin\Debug\netcoreapp3.1\E_Array3D.pdb
+D:\Documents\GitHub\ADA_Csh\E_Array3D\obj\Debug\netcoreapp3.1\E_Array3D.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_Array3D\obj\Debug\netcoreapp3.1\E_Array3D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_Array3D\obj\Debug\netcoreapp3.1\E_Array3D.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_Array3D\obj\Debug\netcoreapp3.1\E_Array3D.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_Array3D\obj\Debug\netcoreapp3.1\E_Array3D.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_Array3D\obj\Debug\netcoreapp3.1\E_Array3D.dll
+D:\Documents\GitHub\ADA_Csh\E_Array3D\obj\Debug\netcoreapp3.1\E_Array3D.pdb
+D:\Documents\GitHub\ADA_Csh\E_Array3D\obj\Debug\netcoreapp3.1\E_Array3D.genruntimeconfig.cache
