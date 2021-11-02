@@ -78,8 +78,7 @@ namespace E_Transportista
             Console.WriteLine("{0}\t{1}\t\t{2}\t\t{3}", merloc, guadloc, mtrloc, oaxloc);
 
 
-        }
-        
+        } 
         static char s_or_n()
         {
             Console.WriteLine("Programa exitoso");

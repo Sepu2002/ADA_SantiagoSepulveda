@@ -74,7 +74,7 @@ namespace E_OperacionesArreglos
                     int target = askint("Qué valor quiere encontrar");
                     int found = findArrayValue(arra, target);
                     Console.WriteLine("El valor se encontró {0} veces", found);
-                    Options(ref selec);
+                    
                     break;
                 case 5:
                     Console.Clear();
@@ -96,12 +96,13 @@ namespace E_OperacionesArreglos
                     
                     break;
                 case 7:
+                    Array.Sort(arra);
+                    printArray(arra);
                     break;
                 case 8:
-                    break;
-                case 9:
                     arra = new int[askint("Escriba la longitud del arreglo a generar:")];
                     break;
+              
             }
 
         }
@@ -123,9 +124,10 @@ namespace E_OperacionesArreglos
         static int findArrayValue(int[] arr, int target)
         {
             int i, count = 0;
+            Console.Write("El número {0} se encuentra en las posiciones: ", target);
             for (i = 0; i < arr.Length; i++)
             {
-                Console.Write("El número {0} se encuentra en las posiciones: ", target);
+               
                 if (arr[i] == target)
                 {
                     count++;
@@ -176,6 +178,7 @@ namespace E_OperacionesArreglos
             return (count);
 
         }
+        
         static void Options(ref int selec) {
             Console.WriteLine("");
             Console.WriteLine("Operaciones cor el arreglo");
@@ -186,8 +189,8 @@ namespace E_OperacionesArreglos
             Console.WriteLine("5-Buscar número en el arreglo con color");
             Console.WriteLine("6-Busacar valores dentro de un rango en el arreglo");
             Console.WriteLine("7-Ordenar el arreglo");
-            Console.WriteLine("8-Ingresar manualmente los valores del arreglo");
-            Console.WriteLine("9-Reiniciar arreglo y cambiar su longitud");
+            Console.WriteLine("8-Reiniciar arreglo y cambiar su longitud");
+            Console.WriteLine("");
             selec = askint("Selccione una opción:");
         }
     }

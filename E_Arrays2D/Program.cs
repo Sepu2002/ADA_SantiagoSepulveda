@@ -7,12 +7,14 @@ namespace E_Arrays2D
         static void Main(string[] args)
         {
             char cont = 's';
+            double promgral = 0;
             do {
                 int alum = askint("Escriba el número de alumnos:");
                 int mat = askint("Escriba el número de materias:");
                 int[,] arra = new int[mat,alum];
                 genArrayrand2D(ref arra);
-                printArray2D(arra, mat, alum);
+                printArray2D(arra, mat, alum, ref promgral);
+                Console.WriteLine("El promedio general es: {0}",promgral / alum);
 
 
 
@@ -45,7 +47,7 @@ namespace E_Arrays2D
                     arr[i, j] = rnd.Next(10, 101);
             }
         }
-        static void printArray2D(int[,] arr, int x, int y) {
+        static void printArray2D(int[,] arr, int x, int y, ref double promgral) {
             for (int i = 0; i < y; i++)
             {
                 Console.Write("Alumno {0}: ", i+1);
@@ -53,13 +55,14 @@ namespace E_Arrays2D
                 {
                     Console.Write("{0} ", arr[j, i]);
                 }
-                double promedio = averArray(arr, i);
+                double promedio = averArray(arr, i, ref promgral);
+                promgral = promgral + promedio;
                 Console.Write("\t Promedio {0}", promedio);
                 Console.Write("\n");
             }
 
         }
-        static double averArray(int[,] arr, int line) {
+        static double averArray(int[,] arr, int line, ref double promgral) {
 
             int sum = 0;
             for (int j = 0; j < arr.GetLength(0); j++)
