@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_Archivos\bin\Debug\netcoreapp3.1\E_Archivos.exe
+D:\Documents\GitHub\ADA_Csh\E_Archivos\bin\Debug\netcoreapp3.1\E_Archivos.deps.json
+D:\Documents\GitHub\ADA_Csh\E_Archivos\bin\Debug\netcoreapp3.1\E_Archivos.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_Archivos\bin\Debug\netcoreapp3.1\E_Archivos.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_Archivos\bin\Debug\netcoreapp3.1\E_Archivos.dll
+D:\Documents\GitHub\ADA_Csh\E_Archivos\bin\Debug\netcoreapp3.1\E_Archivos.pdb
+D:\Documents\GitHub\ADA_Csh\E_Archivos\obj\Debug\netcoreapp3.1\E_Archivos.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_Archivos\obj\Debug\netcoreapp3.1\E_Archivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_Archivos\obj\Debug\netcoreapp3.1\E_Archivos.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_Archivos\obj\Debug\netcoreapp3.1\E_Archivos.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_Archivos\obj\Debug\netcoreapp3.1\E_Archivos.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_Archivos\obj\Debug\netcoreapp3.1\E_Archivos.dll
+D:\Documents\GitHub\ADA_Csh\E_Archivos\obj\Debug\netcoreapp3.1\E_Archivos.pdb
+D:\Documents\GitHub\ADA_Csh\E_Archivos\obj\Debug\netcoreapp3.1\E_Archivos.genruntimeconfig.cache

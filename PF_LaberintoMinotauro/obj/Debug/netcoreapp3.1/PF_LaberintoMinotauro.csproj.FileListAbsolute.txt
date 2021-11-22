@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\PF_LaberintoMinotauro\bin\Debug\netcoreapp3.1\PF_LaberintoMinotauro.exe
+D:\Documents\GitHub\ADA_Csh\PF_LaberintoMinotauro\bin\Debug\netcoreapp3.1\PF_LaberintoMinotauro.deps.json
+D:\Documents\GitHub\ADA_Csh\PF_LaberintoMinotauro\bin\Debug\netcoreapp3.1\PF_LaberintoMinotauro.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\PF_LaberintoMinotauro\bin\Debug\netcoreapp3.1\PF_LaberintoMinotauro.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\PF_LaberintoMinotauro\bin\Debug\netcoreapp3.1\PF_LaberintoMinotauro.dll
+D:\Documents\GitHub\ADA_Csh\PF_LaberintoMinotauro\bin\Debug\netcoreapp3.1\PF_LaberintoMinotauro.pdb
+D:\Documents\GitHub\ADA_Csh\PF_LaberintoMinotauro\obj\Debug\netcoreapp3.1\PF_LaberintoMinotauro.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\PF_LaberintoMinotauro\obj\Debug\netcoreapp3.1\PF_LaberintoMinotauro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\PF_LaberintoMinotauro\obj\Debug\netcoreapp3.1\PF_LaberintoMinotauro.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\PF_LaberintoMinotauro\obj\Debug\netcoreapp3.1\PF_LaberintoMinotauro.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\PF_LaberintoMinotauro\obj\Debug\netcoreapp3.1\PF_LaberintoMinotauro.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\PF_LaberintoMinotauro\obj\Debug\netcoreapp3.1\PF_LaberintoMinotauro.dll
+D:\Documents\GitHub\ADA_Csh\PF_LaberintoMinotauro\obj\Debug\netcoreapp3.1\PF_LaberintoMinotauro.pdb
+D:\Documents\GitHub\ADA_Csh\PF_LaberintoMinotauro\obj\Debug\netcoreapp3.1\PF_LaberintoMinotauro.genruntimeconfig.cache

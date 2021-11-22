@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_ArchivosArray\bin\Debug\netcoreapp3.1\E_ArchivosArray.exe
+D:\Documents\GitHub\ADA_Csh\E_ArchivosArray\bin\Debug\netcoreapp3.1\E_ArchivosArray.deps.json
+D:\Documents\GitHub\ADA_Csh\E_ArchivosArray\bin\Debug\netcoreapp3.1\E_ArchivosArray.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_ArchivosArray\bin\Debug\netcoreapp3.1\E_ArchivosArray.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_ArchivosArray\bin\Debug\netcoreapp3.1\E_ArchivosArray.dll
+D:\Documents\GitHub\ADA_Csh\E_ArchivosArray\bin\Debug\netcoreapp3.1\E_ArchivosArray.pdb
+D:\Documents\GitHub\ADA_Csh\E_ArchivosArray\obj\Debug\netcoreapp3.1\E_ArchivosArray.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_ArchivosArray\obj\Debug\netcoreapp3.1\E_ArchivosArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_ArchivosArray\obj\Debug\netcoreapp3.1\E_ArchivosArray.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_ArchivosArray\obj\Debug\netcoreapp3.1\E_ArchivosArray.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_ArchivosArray\obj\Debug\netcoreapp3.1\E_ArchivosArray.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_ArchivosArray\obj\Debug\netcoreapp3.1\E_ArchivosArray.dll
+D:\Documents\GitHub\ADA_Csh\E_ArchivosArray\obj\Debug\netcoreapp3.1\E_ArchivosArray.pdb
+D:\Documents\GitHub\ADA_Csh\E_ArchivosArray\obj\Debug\netcoreapp3.1\E_ArchivosArray.genruntimeconfig.cache

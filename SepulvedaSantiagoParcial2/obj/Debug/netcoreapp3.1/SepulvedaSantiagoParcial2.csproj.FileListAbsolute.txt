@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\SepulvedaSantiagoParcial2\bin\Debug\netcoreapp3.1\SepulvedaSantiagoParcial2.exe
+D:\Documents\GitHub\ADA_Csh\SepulvedaSantiagoParcial2\bin\Debug\netcoreapp3.1\SepulvedaSantiagoParcial2.deps.json
+D:\Documents\GitHub\ADA_Csh\SepulvedaSantiagoParcial2\bin\Debug\netcoreapp3.1\SepulvedaSantiagoParcial2.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\SepulvedaSantiagoParcial2\bin\Debug\netcoreapp3.1\SepulvedaSantiagoParcial2.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\SepulvedaSantiagoParcial2\bin\Debug\netcoreapp3.1\SepulvedaSantiagoParcial2.dll
+D:\Documents\GitHub\ADA_Csh\SepulvedaSantiagoParcial2\bin\Debug\netcoreapp3.1\SepulvedaSantiagoParcial2.pdb
+D:\Documents\GitHub\ADA_Csh\SepulvedaSantiagoParcial2\obj\Debug\netcoreapp3.1\SepulvedaSantiagoParcial2.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\SepulvedaSantiagoParcial2\obj\Debug\netcoreapp3.1\SepulvedaSantiagoParcial2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\SepulvedaSantiagoParcial2\obj\Debug\netcoreapp3.1\SepulvedaSantiagoParcial2.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\SepulvedaSantiagoParcial2\obj\Debug\netcoreapp3.1\SepulvedaSantiagoParcial2.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\SepulvedaSantiagoParcial2\obj\Debug\netcoreapp3.1\SepulvedaSantiagoParcial2.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\SepulvedaSantiagoParcial2\obj\Debug\netcoreapp3.1\SepulvedaSantiagoParcial2.dll
+D:\Documents\GitHub\ADA_Csh\SepulvedaSantiagoParcial2\obj\Debug\netcoreapp3.1\SepulvedaSantiagoParcial2.pdb
+D:\Documents\GitHub\ADA_Csh\SepulvedaSantiagoParcial2\obj\Debug\netcoreapp3.1\SepulvedaSantiagoParcial2.genruntimeconfig.cache

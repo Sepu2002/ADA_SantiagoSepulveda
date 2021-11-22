@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\E_TesterP2M\bin\Debug\netcoreapp3.1\E_TesterP2M.exe
+D:\Documents\GitHub\ADA_Csh\E_TesterP2M\bin\Debug\netcoreapp3.1\E_TesterP2M.deps.json
+D:\Documents\GitHub\ADA_Csh\E_TesterP2M\bin\Debug\netcoreapp3.1\E_TesterP2M.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\E_TesterP2M\bin\Debug\netcoreapp3.1\E_TesterP2M.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\E_TesterP2M\bin\Debug\netcoreapp3.1\E_TesterP2M.dll
+D:\Documents\GitHub\ADA_Csh\E_TesterP2M\bin\Debug\netcoreapp3.1\E_TesterP2M.pdb
+D:\Documents\GitHub\ADA_Csh\E_TesterP2M\obj\Debug\netcoreapp3.1\E_TesterP2M.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\E_TesterP2M\obj\Debug\netcoreapp3.1\E_TesterP2M.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\E_TesterP2M\obj\Debug\netcoreapp3.1\E_TesterP2M.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_TesterP2M\obj\Debug\netcoreapp3.1\E_TesterP2M.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\E_TesterP2M\obj\Debug\netcoreapp3.1\E_TesterP2M.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\E_TesterP2M\obj\Debug\netcoreapp3.1\E_TesterP2M.dll
+D:\Documents\GitHub\ADA_Csh\E_TesterP2M\obj\Debug\netcoreapp3.1\E_TesterP2M.pdb
+D:\Documents\GitHub\ADA_Csh\E_TesterP2M\obj\Debug\netcoreapp3.1\E_TesterP2M.genruntimeconfig.cache
