@@ -9,36 +9,56 @@ namespace PF_LaberintoMinotauro
         {
             Random genSpawn = new Random();
             int cont = 0;
-            int punt = 0;
-            int playerx = 1, playery = 1;
-            int minox = genSpawn.Next(2, 39), chyx = genSpawn.Next(2, 39), chybx = genSpawn.Next(2, 39), chycx = genSpawn.Next(2, 39), ogrx = genSpawn.Next(2, 39), ogrbx = genSpawn.Next(2, 39), ogrcx = genSpawn.Next(2, 39), psyx = genSpawn.Next(2, 39), psybx = genSpawn.Next(2, 39), psycx = genSpawn.Next(2, 39);
-            int minoy = genSpawn.Next(2, 19), chyy = genSpawn.Next(2, 19), chyby = genSpawn.Next(1, 19), chycy = genSpawn.Next(1, 19), ogry = genSpawn.Next(1, 19), ogrby = genSpawn.Next(1, 19), ogrcy = genSpawn.Next(1, 19), psyy = genSpawn.Next(1, 19), psyby = genSpawn.Next(1, 19), psycy = genSpawn.Next(1, 19);
+            int inic = 0;
+            char contb = 's';
+            int minox = genSpawn.Next(5, 39), chyx = genSpawn.Next(5, 39), chybx = genSpawn.Next(5, 39), chycx = genSpawn.Next(5, 39), ogrx = genSpawn.Next(5, 39), ogrbx = genSpawn.Next(5, 39), ogrcx = genSpawn.Next(5, 39), psyx = genSpawn.Next(5, 39), psybx = genSpawn.Next(5, 39), psycx = genSpawn.Next(5, 39);
+            int minoy = genSpawn.Next(3, 19), chyy = genSpawn.Next(3, 19), chyby = genSpawn.Next(3, 19), chycy = genSpawn.Next(3, 19), ogry = genSpawn.Next(3, 19), ogrby = genSpawn.Next(3, 19), ogrcy = genSpawn.Next(3, 19), psyy = genSpawn.Next(3, 19), psyby = genSpawn.Next(3, 19), psycy = genSpawn.Next(3, 19);
             int[,] matrix = new int[40, 20];
-            modeSelect(ref matrix, ref playerx, ref playery, ref minox, ref minoy, ref chyx, ref chyy, ref chybx, ref chyby, ref chycx, ref chycy, ref ogrx, ref ogry, ref ogrbx, ref ogrby, ref ogrcx, ref ogrcy, ref psyx, ref psyy, ref psybx, ref psyby, ref psycx, ref psycy);
-            dificultySelect(ref matrix, ref playerx, ref playery, ref minox, ref minoy, ref chyx, ref chyy, ref chybx, ref chyby, ref chycx, ref chycy, ref ogrx, ref ogry, ref ogrbx, ref ogrby, ref ogrcx, ref ogrcy, ref psyx, ref psyy, ref psybx, ref psyby, ref psycx, ref psycy, ref cont, ref punt);     
+            int dif = 0;
+            do
+            {
+                int punt = 0;
+                string nombre=splash();
+                int playerx = 1, playery = 1;
+                matrix = new int[40, 20];
+                modeSelect(ref matrix, ref playerx, ref playery, ref minox, ref minoy, ref chyx, ref chyy, ref chybx, ref chyby, ref chycx, ref chycy, ref ogrx, ref ogry, ref ogrbx, ref ogrby, ref ogrcx, ref ogrcy, ref psyx, ref psyy, ref psybx, ref psyby, ref psycx, ref psycy, ref cont, ref punt, ref contb, ref inic, ref dif, nombre);
+            } while (contb == 's' || contb == 'S');
         }
-        static void readMaze(string mapa, ref int[,] matrix) {
-            string[] items = new string[20];
+
+        static void readMaze(string mapa, ref int[,] matrix)
+        {
+            string[] lineas = new string[20];
             char[] div = { ',' };
             StreamReader objleer = new StreamReader(mapa);
-            string item = objleer.ReadLine();
-            while (item != null)
+            string linea = objleer.ReadLine();
+            while (linea != null)
             {
                 for (int current = 0; current < matrix.GetLength(1); current++)
                 {
 
-
-                    items = item.Split(div);
+                    lineas = linea.Split(div);
                     for (int i = 0; i < matrix.GetLength(0); i++)
                     {
-                        matrix[i, current] = Convert.ToInt32(items[i]);
+                        matrix[i, current] = Convert.ToInt32(lineas[i]);
                     }
-                    item = objleer.ReadLine();
+                    linea = objleer.ReadLine();
                 }
             }
             objleer.Close();
         }
-        static void printMaze (int[,] arr, int punt)
+        static void readPoints()
+        {
+            StreamReader objleer = new StreamReader("Puntaje.txt");
+            string item = objleer.ReadLine();
+            Console.WriteLine("Nombre\t Puntaje\tDificultad\n");
+            while (item != null)
+            {
+                Console.WriteLine(item);
+                item = objleer.ReadLine();
+            }
+            objleer.Close();
+        }
+        static void printMaze(int[,] arr, int punt)
         {
             Console.Clear();
             for (int j = 0; j < arr.GetLength(1); j++)
@@ -47,8 +67,10 @@ namespace PF_LaberintoMinotauro
                 {
                     if (arr[i, j] == 1)
                     {
-                        Console.ForegroundColor = ConsoleColor.DarkYellow;
-                        Console.Write("█");
+                        Console.ForegroundColor = ConsoleColor.Black;
+                        Console.BackgroundColor = ConsoleColor.DarkYellow;
+                        Console.Write("╬");
+                        Console.BackgroundColor = ConsoleColor.Black;
                         Console.ForegroundColor = ConsoleColor.White;
                     }
                     if (arr[i, j] == 0)
@@ -73,7 +95,7 @@ namespace PF_LaberintoMinotauro
                     {
                         Console.ForegroundColor = ConsoleColor.Cyan;
                         Console.Write("☺");
-                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.ForegroundColor = ConsoleColor.Cyan;
                     }
                     if (arr[i, j] == 6)
                     {
@@ -106,13 +128,19 @@ namespace PF_LaberintoMinotauro
 
                 }
                 Console.Write("\n");
-                
+
             }
-            Console.SetCursorPosition(0, 25);
-            Console.Write("Puntuación: {0}",punt);
+            Console.SetCursorPosition(0, 21);
+            Console.Write("Puntuación: {0}\n\n", punt);
+            Console.WriteLine("Instrucciones: ");
+            Console.WriteLine("\t 1. Presione '-->' para comenzar la partida");
+            Console.WriteLine("\t 2. Presione 'S' para guardar la partida");
+            Console.WriteLine("\t 3. Intenta llegar a la salida sin tocar a los enemigos");
+            Console.WriteLine("\t 4. Si te encuentras directamente junto a un enemigo, habrás perdido la partida");
         }
-        static string MapSelect() {
-            string opcion = "";
+        static string MapSelect()
+        {
+            
             Console.WriteLine("Selecciona un Mapa");
             Console.WriteLine("");
             Console.WriteLine("1. Mapa 1");
@@ -120,20 +148,20 @@ namespace PF_LaberintoMinotauro
             Console.WriteLine("3. Mapa 3");
             Console.WriteLine("4. Mapa 4");
             Console.WriteLine("5. Mapa 5");
-            //Console.WriteLine("6. Continuar partida guardada");
-            int mapselec= askint("Ingrese su selección");
+            int mapselec = askint("Ingrese su selección");
 
-            switch (mapselec) {
+            switch (mapselec)
+            {
                 case 1:
-                    opcion = "mapauno.txt";
+                    string opcion = "mapauno.txt";
                     return opcion;
-                    
+
                 case 2:
                     opcion = "mapados.txt";
                     return opcion;
-                    
+
                 case 3:
-                    opcion = "mapatres.txt";
+                     opcion = "mapatres.txt";
                     return opcion;
                 case 4:
                     opcion = "mapacuatro.txt";
@@ -142,10 +170,6 @@ namespace PF_LaberintoMinotauro
                 case 5:
                     opcion = "mapacinco.txt";
                     return opcion;
-
-                //case 6:
-                    //opcion = "SavedGame.txt";
-                    //return opcion;
                 default:
                     opcion = "mapauno.txt";
                     return opcion;
@@ -153,35 +177,52 @@ namespace PF_LaberintoMinotauro
 
             }
         }
-        static void modeSelect(ref int[,] matrix, ref int playerx, ref int playery, ref int minox, ref int minoy, ref int chyx, ref int chyy, ref int chybx, ref int chyby, ref int chycx, ref int chycy, ref int ogrx, ref int ogry, ref int ogrbx, ref int ogrby, ref int ogrcx, ref int ogrcy, ref int psyx, ref int psyy, ref int psybx, ref int psyby, ref int psycx, ref int psycy) {
+        static void modeSelect(ref int[,] matrix, ref int playerx, ref int playery, ref int minox, ref int minoy, ref int chyx, ref int chyy, ref int chybx, ref int chyby, ref int chycx, ref int chycy, ref int ogrx, ref int ogry, ref int ogrbx, ref int ogrby, ref int ogrcx, ref int ogrcy, ref int psyx, ref int psyy, ref int psybx, ref int psyby, ref int psycx, ref int psycy, ref int cont, ref int punt, ref char contb, ref int inic, ref int dif, string nombre)
+        {
+            Console.Clear();
             Console.WriteLine("1. Entrar a selección de mapas");
             Console.WriteLine("2. Continuar partida guardada");
-            int inic = askint("Seleccione una opción");
+            Console.WriteLine("3. Ver puntuaciones");
+            inic = askint("Seleccione una opción");
             switch (inic)
             {
                 case 1:
                     string mapa = MapSelect();
                     readMaze(mapa, ref matrix);
                     spawnBlock(matrix, ref minox, ref minoy, ref chyx, ref chyy, ref chybx, ref chyby, ref chycx, ref chycy, ref ogrx, ref ogry, ref ogrbx, ref ogrby, ref ogrcx, ref ogrcy, ref psyx, ref psyy, ref psybx, ref psyby, ref psycx, ref psycy);
+                    dificultySelect(ref matrix, ref playerx, ref playery, ref minox, ref minoy, ref chyx, ref chyy, ref chybx, ref chyby, ref chycx, ref chycy, ref ogrx, ref ogry, ref ogrbx, ref ogrby, ref ogrcx, ref ogrcy, ref psyx, ref psyy, ref psybx, ref psyby, ref psycx, ref psycy, ref cont, ref punt, ref dif, nombre);
+                    contb = s_or_n("¿Quieres jugar de nuevo?");
+                    Console.Clear();
                     break;
                 case 2:
                     readMaze("SavedGame.txt", ref matrix);
+                    resumePoints(ref punt);
                     posResume(ref matrix, ref playerx, ref playery, ref minox, ref minoy, ref chyx, ref chyy, ref chybx, ref chyby, ref chycx, ref chycy, ref ogrx, ref ogry, ref ogrbx, ref ogrby, ref ogrcx, ref ogrcy, ref psyx, ref psyy, ref psybx, ref psyby, ref psycx, ref psycy);
+                    dificultySelect(ref matrix, ref playerx, ref playery, ref minox, ref minoy, ref chyx, ref chyy, ref chybx, ref chyby, ref chycx, ref chycy, ref ogrx, ref ogry, ref ogrbx, ref ogrby, ref ogrcx, ref ogrcy, ref psyx, ref psyy, ref psybx, ref psyby, ref psycx, ref psycy, ref cont, ref punt, ref dif, nombre);
+                    contb = s_or_n("¿Quieres jugar de nuevo? ");
+                    Console.Clear();
+                    break;
+                case 3:
+                    readPoints();
+                    contb = s_or_n("¿Quieres volver al menú principal? ");
                     break;
             }
         }
-        static void dificultySelect(ref int[,] matrix, ref int playerx, ref int playery, ref int minox, ref int minoy, ref int chyx, ref int chyy, ref int chybx, ref int chyby, ref int chycx, ref int chycy, ref int ogrx, ref int ogry, ref int ogrbx, ref int ogrby, ref int ogrcx, ref int ogrcy, ref int psyx, ref int psyy, ref int psybx, ref int psyby, ref int psycx, ref int psycy, ref int cont, ref int punt) {
+        static void dificultySelect(ref int[,] matrix, ref int playerx, ref int playery, ref int minox, ref int minoy, ref int chyx, ref int chyy, ref int chybx, ref int chyby, ref int chycx, ref int chycy, ref int ogrx, ref int ogry, ref int ogrbx, ref int ogrby, ref int ogrcx, ref int ogrcy, ref int psyx, ref int psyy, ref int psybx, ref int psyby, ref int psycx, ref int psycy, ref int cont, ref int punt, ref int dif, string nombre)
+        {
             Console.WriteLine("1. Fácil (4 Enemigos)");
             Console.WriteLine("2. Medio (7 Enemigos)");
             Console.WriteLine("3. Difícil (10 Enemigos)");
-            int dif = askint("Seleccione una dificultad");
-            switch (dif) {
+            dif = askint("Seleccione una dificultad");
+            cont = 0;
+            switch (dif)
+            {
                 case 1:
                     while (cont == 0)
                     {
                         printMaze(matrix, punt);
 
-                        control(ref playerx, ref playery, ref matrix, ref cont, ref punt);
+                        control(ref playerx, ref playery, ref matrix, ref cont, ref punt, nombre, dif);
 
                         controlMin(ref minox, ref minoy, ref matrix);
 
@@ -202,19 +243,19 @@ namespace PF_LaberintoMinotauro
                     {
                         printMaze(matrix, punt);
 
-                        control(ref playerx, ref playery, ref matrix, ref cont, ref punt);
+                        control(ref playerx, ref playery, ref matrix, ref cont, ref punt, nombre, dif);
 
                         controlMin(ref minox, ref minoy, ref matrix);
 
                         controlChy(ref chyx, ref chyy, ref matrix);
                         controlChy(ref chybx, ref chyby, ref matrix);
-                        
+
                         controlOgr(ref ogrx, ref ogry, ref matrix);
                         controlOgr(ref ogrbx, ref ogrby, ref matrix);
-                        
+
                         controlPsy(ref psyx, ref psyy, ref matrix);
                         controlPsy(ref psybx, ref psyby, ref matrix);
-                        
+
                         colisionCheck(matrix, playerx, playery, ref cont);
 
                     }
@@ -226,7 +267,7 @@ namespace PF_LaberintoMinotauro
                     {
                         printMaze(matrix, punt);
 
-                        control(ref playerx, ref playery, ref matrix, ref cont, ref punt);
+                        control(ref playerx, ref playery, ref matrix, ref cont, ref punt, nombre, dif);
 
                         controlMin(ref minox, ref minoy, ref matrix);
 
@@ -249,25 +290,29 @@ namespace PF_LaberintoMinotauro
             }
 
         }
-        
-        static void control(ref int playerx, ref int playery, ref int[,] matrix, ref int cont, ref int punt) {
+
+        static void control(ref int playerx, ref int playery, ref int[,] matrix, ref int cont, ref int punt, string nombre, int dif)
+        {
             ConsoleKeyInfo input;
             input = Console.ReadKey(false);
-        
-            switch (input.Key) {
-                case ConsoleKey.RightArrow:
-                    if (matrix[playerx+1,playery]==0 ) {
 
-                        matrix[playerx, playery] = 0;  
+            switch (input.Key)
+            {
+                case ConsoleKey.RightArrow:
+                    if (matrix[playerx + 1, playery] == 0)
+                    {
+
+                        matrix[playerx, playery] = 0;
                         playerx++;
                         punt++;
                         splayer(playerx, playery, ref matrix);
 
                     }
-                    if (matrix[playerx + 1, playery] == 4) {
-                        winScreen(ref cont, punt);
+                    if (matrix[playerx + 1, playery] == 4)
+                    {
+                        winScreen(ref cont, punt, nombre, dif);
                     }
-                        break;
+                    break;
 
                 case ConsoleKey.LeftArrow:
                     if (matrix[playerx - 1, playery] == 0)
@@ -280,7 +325,7 @@ namespace PF_LaberintoMinotauro
                     }
                     if (matrix[playerx - 1, playery] == 4)
                     {
-                        winScreen(ref cont, punt);
+                        winScreen(ref cont, punt, nombre, dif);
                     }
                     break;
 
@@ -295,7 +340,7 @@ namespace PF_LaberintoMinotauro
                     }
                     if (matrix[playerx, playery + 1] == 4)
                     {
-                        winScreen(ref cont, punt);
+                        winScreen(ref cont, punt, nombre, dif);
                     }
                     break;
 
@@ -310,21 +355,23 @@ namespace PF_LaberintoMinotauro
                     }
                     if (matrix[playerx, playery - 1] == 4)
                     {
-                        winScreen(ref cont, punt);
+                        winScreen(ref cont, punt, nombre, dif);
                     }
                     break;
 
                 case ConsoleKey.S:
-                    saveGame("SavedGame.txt",ref matrix);
+                    saveGame("SavedGame.txt", ref matrix, punt);
                     break;
 
             }
         }
-        static void controlMin(ref int minox, ref int minoy, ref int[,] matrix) {
+        static void controlMin(ref int minox, ref int minoy, ref int[,] matrix)
+        {
             Random genAleatorio = new Random();
             int randirmin = genAleatorio.Next(1, 5);
 
-            switch (randirmin) {
+            switch (randirmin)
+            {
                 case 1:
                     if (matrix[minox + 1, minoy] == 0)
                     {
@@ -361,8 +408,8 @@ namespace PF_LaberintoMinotauro
 
                     }
                     break;
-                   
-            
+
+
             }
         }
         static void controlChy(ref int chyx, ref int chyy, ref int[,] matrix)
@@ -411,7 +458,7 @@ namespace PF_LaberintoMinotauro
 
 
             }
-        }      
+        }
         static void controlOgr(ref int ogrx, ref int ogry, ref int[,] matrix)
         {
             Random genAleatorio = new Random();
@@ -506,14 +553,18 @@ namespace PF_LaberintoMinotauro
 
             }
         }
-       
-        static void splayer(int playerx, int playery, ref int[,] matrix) {
+
+
+        static void splayer(int playerx, int playery, ref int[,] matrix)
+        {
             matrix[playerx, playery] = 5;
         }
-        static void smino(int minox, int minoy, ref int[,] matrix) {
+        static void smino(int minox, int minoy, ref int[,] matrix)
+        {
             matrix[minox, minoy] = 6;
         }
-        static void schy(int chyx, int chyy, ref int[,] matrix){
+        static void schy(int chyx, int chyy, ref int[,] matrix)
+        {
             matrix[chyx, chyy] = 7;
         }
         static void sogr(int ogrx, int ogry, ref int[,] matrix)
@@ -525,7 +576,8 @@ namespace PF_LaberintoMinotauro
             matrix[psyx, psyy] = 9;
         }
 
-        static void winScreen(ref int cont, int punt) {
+        static void winScreen(ref int cont, int punt, string nombre, int dif)
+        {
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("      :::        :::::::::: :::     ::: :::::::::: :::           ::::::::  :::        ::::::::::     :::     :::::::::");
@@ -535,14 +587,42 @@ namespace PF_LaberintoMinotauro
             Console.WriteLine("  +#+        +#+         +#+   +#+  +#+        +#+          +#+        +#+        +#+        +#+     +#+ +#+    +#+");
             Console.WriteLine(" #+#        #+#          #+#+#+#   #+#        #+#          #+#    #+# #+#        #+#        #+#     #+# #+#    #+#");
             Console.WriteLine("########## ##########     ###     ########## ##########    ########  ########## ########## ###     ### ###    ###");
+
+            StreamReader objleer = new StreamReader("MinoArtLC.txt");
+            string minotauro = objleer.ReadLine();
+            while (minotauro != null)
+            {
+                for (int current = 0; current <= 31; current++)
+                {
+
+                    Console.WriteLine(minotauro);
+                    minotauro = objleer.ReadLine();
+                }
+            }
+            objleer.Close();
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("");
             Console.WriteLine("Puntuación: {0}", punt);
             cont++;
-            hold();
+            string difs = "";
+            switch (dif)
+            {
+                case 1:
+                    difs = "Fácil";
+                    break;
+                case 2:
+                    difs = "Medio";
+                    break;
+                case 3:
+                    difs = "Difícil";
+                    break;
+            }
+            writeScore(nombre, punt, difs);
+            //hold();
 
         }
-        static void gameOver(ref int cont) {
+        static void gameOver(ref int cont)
+        {
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("      ::::::::      :::       :::   :::   ::::::::::          ::::::::  :::     ::: :::::::::: :::::::::");
@@ -552,9 +632,44 @@ namespace PF_LaberintoMinotauro
             Console.WriteLine(" +#+   +#+# +#+     +#+ +#+       +#+ +#+                +#+    +#+  +#+   +#+  +#+        +#+    +#+");
             Console.WriteLine("#+#    #+# #+#     #+# #+#       #+# #+#                #+#    #+#   #+#+#+#   #+#        #+#    #+#");
             Console.WriteLine("########  ###     ### ###       ### ##########          ########      ###     ########## ###    ###");
+
+            StreamReader objleer = new StreamReader("MinoArtGO.txt");
+            string minotauro = objleer.ReadLine();
+            while (minotauro != null)
+            {
+                for (int current = 0; current <= 21; current++)
+                {
+
+                    Console.WriteLine(minotauro);
+                    minotauro = objleer.ReadLine();
+                }
+            }
+            objleer.Close();
             Console.ForegroundColor = ConsoleColor.White;
             cont++;
-            hold();
+            //hold();
+        }
+        static string splash() {
+            //StreamWriter objescrib = new StreamWriter("MinoArtLC.txt", true);
+            //objescrib.Close();
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            StreamReader objleer = new StreamReader("MinoArt.txt");
+            string minotauro = objleer.ReadLine();
+            while (minotauro != null)
+            {
+                for (int current = 0; current <= 49; current++)
+                {
+
+                    Console.WriteLine(minotauro);
+                    minotauro = objleer.ReadLine();
+                }
+            }
+            objleer.Close();
+            Console.ForegroundColor = ConsoleColor.White;
+            string nombre = askstr("Nombre del Jugador: ");
+            return nombre;
+            
+
         }
         static void hold()
         {
@@ -563,28 +678,44 @@ namespace PF_LaberintoMinotauro
             string hold = Console.ReadLine();
 
         }
-        static void saveGame(string saveFile, ref int[,] matrix) {
+        static void saveGame(string saveFile, ref int[,] matrix, int punt)
+        {
             File.WriteAllText(@"SavedGame.txt", string.Empty);
             StreamWriter objgrabar = new StreamWriter(saveFile, true);
-            
+
             for (int i = 0; i < matrix.GetLength(1); i++)
             {
                 for (int j = 0; j < matrix.GetLength(0); j++)
                 {
-                    string value=Convert.ToString(matrix[j,i]);
-                    objgrabar.Write("{0}, ",value);
+                    string value = Convert.ToString(matrix[j, i]);
+                    objgrabar.Write("{0}, ", value);
                 }
                 objgrabar.Write("\n");
             }
             objgrabar.Close();
+
+            File.WriteAllText(@"ScoreSave.txt", string.Empty);
+            StreamWriter objgrabarb = new StreamWriter("ScoreSave.txt", true);
+            objgrabarb.Write(punt);
+            objgrabarb.Close();
+
         }
-        static void posResume(ref int[,] arr,ref int playerx, ref int playery, ref int minox, ref int minoy, ref int chyx, ref int chyy, ref int chybx, ref int chyby, ref int chycx, ref int chycy, ref int ogrx, ref int ogry, ref int ogrbx, ref int ogrby, ref int ogrcx, ref int ogrcy, ref int psyx, ref int psyy, ref int psybx, ref int psyby, ref int psycx, ref int psycy) {
+        static void writeScore(string nombre, int punt, string dif)
+        {
+            StreamWriter objgrabar = new StreamWriter("Puntaje.txt", true);
+            objgrabar.Write("{0}\t {1}\t \t{2}", nombre, punt, dif);
+            objgrabar.Write("\n");
+            objgrabar.Close();
+
+        }
+        static void posResume(ref int[,] arr, ref int playerx, ref int playery, ref int minox, ref int minoy, ref int chyx, ref int chyy, ref int chybx, ref int chyby, ref int chycx, ref int chycy, ref int ogrx, ref int ogry, ref int ogrbx, ref int ogrby, ref int ogrcx, ref int ogrcy, ref int psyx, ref int psyy, ref int psybx, ref int psyby, ref int psycx, ref int psycy)
+        {
             Console.Clear();
             for (int j = 0; j < arr.GetLength(1); j++)
             {
                 for (int i = 0; i < arr.GetLength(0); i++)
                 {
-                    
+
                     if (arr[i, j] == 5)
                     {
                         playerx = i;
@@ -666,6 +797,12 @@ namespace PF_LaberintoMinotauro
             }
             Console.SetCursorPosition(0, 1);
         }
+        static void resumePoints(ref int punt)
+        {
+            StreamReader objleerb = new StreamReader("ScoreSave.txt");
+            punt = Convert.ToInt32(objleerb.ReadLine());
+            objleerb.Close();
+        }
         static int askint(string mes)
         {
             int output;
@@ -673,8 +810,10 @@ namespace PF_LaberintoMinotauro
             output = Convert.ToInt32(Console.ReadLine());
             return output;
         }
-        static void colisionCheck(int[,] matrix, int playerx, int playery, ref int cont) {
-            if (matrix[playerx + 1, playery] == 6 || matrix[playerx + 1, playery] == 7 || matrix[playerx + 1, playery] == 8 || matrix[playerx + 1, playery] == 9) {
+        static void colisionCheck(int[,] matrix, int playerx, int playery, ref int cont)
+        {
+            if (matrix[playerx + 1, playery] == 6 || matrix[playerx + 1, playery] == 7 || matrix[playerx + 1, playery] == 8 || matrix[playerx + 1, playery] == 9)
+            {
                 gameOver(ref cont);
             }
             if (matrix[playerx - 1, playery] == 6 || matrix[playerx - 1, playery] == 7 || matrix[playerx - 1, playery] == 8 || matrix[playerx - 1, playery] == 9)
@@ -690,7 +829,24 @@ namespace PF_LaberintoMinotauro
                 gameOver(ref cont);
             }
         }
-        static void spawnBlock(int[,] arr, ref int minox, ref int minoy, ref int chyx, ref int chyy, ref int chybx, ref int chyby, ref int chycx, ref int chycy, ref int ogrx, ref int ogry, ref int ogrbx, ref int ogrby, ref int ogrcx, ref int ogrcy, ref int psyx, ref int psyy, ref int psybx, ref int psyby, ref int psycx, ref int psycy) {
+        static char s_or_n(string mes)
+        {
+            Console.WriteLine("");
+            Console.WriteLine("{0} (s/n) <enter>", mes);
+            char output = Convert.ToChar(Console.ReadLine());
+            Console.Clear();
+            return output;
+            ;
+        }
+        static string askstr(string mes)
+        {
+            string output;
+            Console.WriteLine("{0}", mes);
+            output = Console.ReadLine();
+            return output;
+        }
+        static void spawnBlock(int[,] arr, ref int minox, ref int minoy, ref int chyx, ref int chyy, ref int chybx, ref int chyby, ref int chycx, ref int chycy, ref int ogrx, ref int ogry, ref int ogrbx, ref int ogrby, ref int ogrcx, ref int ogrcy, ref int psyx, ref int psyy, ref int psybx, ref int psyby, ref int psycx, ref int psycy)
+        {
 
             Random genSpawn = new Random();
 
@@ -699,73 +855,73 @@ namespace PF_LaberintoMinotauro
                 minox = genSpawn.Next(1, 40);
                 minoy = genSpawn.Next(1, 20);
             }
-            
+
 
             if (arr[chyx, chyy] != 0)
             {
                 chyx = genSpawn.Next(1, 40);
                 chyy = genSpawn.Next(1, 20);
             }
-           
+
 
             if (arr[chybx, chyby] != 0)
             {
                 chybx = genSpawn.Next(1, 40);
                 chyby = genSpawn.Next(1, 20);
             }
-           
+
 
             if (arr[chycx, chycy] != 0)
             {
                 chycx = genSpawn.Next(1, 40);
                 chycy = genSpawn.Next(1, 20);
             }
-           
+
 
             if (arr[ogrx, ogry] != 0)
             {
                 ogrx = genSpawn.Next(1, 40);
                 ogry = genSpawn.Next(1, 20);
             }
-            
+
 
             if (arr[ogrbx, ogrby] != 0)
             {
                 ogrbx = genSpawn.Next(1, 40);
                 ogrby = genSpawn.Next(1, 20);
             }
-            
+
 
             if (arr[ogrcx, ogrcy] != 0)
             {
                 ogrcx = genSpawn.Next(1, 40);
                 ogrcy = genSpawn.Next(1, 20);
             }
-            
+
 
             if (arr[psyx, psyy] != 0)
             {
                 psyx = genSpawn.Next(2, 39);
                 psyy = genSpawn.Next(2, 19);
             }
-            
+
 
             if (arr[psybx, psyby] != 0)
             {
                 psybx = genSpawn.Next(2, 39);
                 psyby = genSpawn.Next(2, 19);
             }
-           
+
 
             if (arr[psycx, psycy] != 0)
             {
                 psycx = genSpawn.Next(2, 39);
                 psycy = genSpawn.Next(2, 19);
             }
-            
+
 
         }
-        
+
 
 
     }
