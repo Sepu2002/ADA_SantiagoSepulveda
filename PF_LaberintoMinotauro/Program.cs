@@ -20,7 +20,7 @@ namespace PF_LaberintoMinotauro
                 int punt = 0;
                 string nombre=splash();
                 int playerx = 1, playery = 1;
-                matrix = new int[40, 20];
+                matrix = new int[41, 21];
                 modeSelect(ref matrix, ref playerx, ref playery, ref minox, ref minoy, ref chyx, ref chyy, ref chybx, ref chyby, ref chycx, ref chycy, ref ogrx, ref ogry, ref ogrbx, ref ogrby, ref ogrcx, ref ogrcy, ref psyx, ref psyy, ref psybx, ref psyby, ref psycx, ref psycy, ref cont, ref punt, ref contb, ref inic, ref dif, nombre);
             } while (contb == 's' || contb == 'S');
         }
@@ -33,11 +33,11 @@ namespace PF_LaberintoMinotauro
             string linea = objleer.ReadLine();
             while (linea != null)
             {
-                for (int current = 0; current < matrix.GetLength(1); current++)
+                for (int current = 0; current < matrix.GetLength(1)-1; current++)
                 {
 
                     lineas = linea.Split(div);
-                    for (int i = 0; i < matrix.GetLength(0); i++)
+                    for (int i = 0; i < matrix.GetLength(0)-1; i++)
                     {
                         matrix[i, current] = Convert.ToInt32(lineas[i]);
                     }
@@ -83,7 +83,9 @@ namespace PF_LaberintoMinotauro
                     }
                     if (arr[i, j] == 3)
                     {
+                        Console.ForegroundColor = ConsoleColor.Yellow;
                         Console.Write("+");
+                        Console.ForegroundColor = ConsoleColor.White;
                     }
                     if (arr[i, j] == 4)
                     {
@@ -93,9 +95,9 @@ namespace PF_LaberintoMinotauro
                     }
                     if (arr[i, j] == 5)
                     {
-                        Console.ForegroundColor = ConsoleColor.Cyan;
-                        Console.Write("☺");
-                        Console.ForegroundColor = ConsoleColor.Cyan;
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.Write("Σ");
+                        Console.ForegroundColor = ConsoleColor.White;
                     }
                     if (arr[i, j] == 6)
                     {
@@ -120,7 +122,7 @@ namespace PF_LaberintoMinotauro
 
                     if (arr[i, j] == 9)
                     {
-                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.ForegroundColor = ConsoleColor.DarkGray;
                         Console.Write("Θ");
                         Console.ForegroundColor = ConsoleColor.White;
                     }
@@ -136,18 +138,44 @@ namespace PF_LaberintoMinotauro
             Console.WriteLine("\t 1. Presione '-->' para comenzar la partida");
             Console.WriteLine("\t 2. Presione 'S' para guardar la partida");
             Console.WriteLine("\t 3. Intenta llegar a la salida sin tocar a los enemigos");
-            Console.WriteLine("\t 4. Si te encuentras directamente junto a un enemigo, habrás perdido la partida");
+            Console.WriteLine("\t 4. Agarrar Dracmas (+) te da 10 puntos extras");
+            Console.WriteLine("\t 5. Si te encuentras directamente junto a un enemigo, habrás perdido la partida");
+            Console.SetCursorPosition(45, 5);
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.SetCursorPosition(45, 6);
+            Console.WriteLine("Jugador Σ");
+            Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.SetCursorPosition(45, 7);
+            Console.WriteLine("Minotauro ╦");
+            Console.ForegroundColor = ConsoleColor.Magenta;
+            Console.SetCursorPosition(45, 8);
+            Console.WriteLine("Chymera §");
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.SetCursorPosition(45, 9);
+            Console.WriteLine("Ogro φ");
+            Console.ForegroundColor = ConsoleColor.DarkGray;
+            Console.SetCursorPosition(45, 10);
+            Console.WriteLine("Cíclope Θ");
+            Console.ForegroundColor = ConsoleColor.White;
         }
         static string MapSelect()
         {
-            
-            Console.WriteLine("Selecciona un Mapa");
-            Console.WriteLine("");
-            Console.WriteLine("1. Mapa 1");
-            Console.WriteLine("2. Mapa 2");
-            Console.WriteLine("3. Mapa 3");
-            Console.WriteLine("4. Mapa 4");
-            Console.WriteLine("5. Mapa 5");
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            StreamReader objleer = new StreamReader("SMTitulo.txt");
+            string minotauro = objleer.ReadLine();
+            while (minotauro != null)
+            {
+                for (int current = 0; current <= 29; current++)
+                {
+
+                    Console.WriteLine(minotauro);
+                    minotauro = objleer.ReadLine();
+                }
+            }
+            objleer.Close();
+            Console.ForegroundColor = ConsoleColor.White;
+
             int mapselec = askint("Ingrese su selección");
 
             switch (mapselec)
@@ -180,9 +208,20 @@ namespace PF_LaberintoMinotauro
         static void modeSelect(ref int[,] matrix, ref int playerx, ref int playery, ref int minox, ref int minoy, ref int chyx, ref int chyy, ref int chybx, ref int chyby, ref int chycx, ref int chycy, ref int ogrx, ref int ogry, ref int ogrbx, ref int ogrby, ref int ogrcx, ref int ogrcy, ref int psyx, ref int psyy, ref int psybx, ref int psyby, ref int psycx, ref int psycy, ref int cont, ref int punt, ref char contb, ref int inic, ref int dif, string nombre)
         {
             Console.Clear();
-            Console.WriteLine("1. Entrar a selección de mapas");
-            Console.WriteLine("2. Continuar partida guardada");
-            Console.WriteLine("3. Ver puntuaciones");
+            Console.ForegroundColor = ConsoleColor.DarkRed;
+            StreamReader objleer = new StreamReader("Smodo.txt");
+            string minotauro = objleer.ReadLine();
+            while (minotauro != null)
+            {
+                for (int current = 0; current <= 22; current++)
+                {
+
+                    Console.WriteLine(minotauro);
+                    minotauro = objleer.ReadLine();
+                }
+            }
+            objleer.Close();
+            Console.ForegroundColor = ConsoleColor.White;
             inic = askint("Seleccione una opción");
             switch (inic)
             {
@@ -210,9 +249,45 @@ namespace PF_LaberintoMinotauro
         }
         static void dificultySelect(ref int[,] matrix, ref int playerx, ref int playery, ref int minox, ref int minoy, ref int chyx, ref int chyy, ref int chybx, ref int chyby, ref int chycx, ref int chycy, ref int ogrx, ref int ogry, ref int ogrbx, ref int ogrby, ref int ogrcx, ref int ogrcy, ref int psyx, ref int psyy, ref int psybx, ref int psyby, ref int psycx, ref int psycy, ref int cont, ref int punt, ref int dif, string nombre)
         {
-            Console.WriteLine("1. Fácil (4 Enemigos)");
-            Console.WriteLine("2. Medio (7 Enemigos)");
-            Console.WriteLine("3. Difícil (10 Enemigos)");
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            StreamReader objleer = new StreamReader("Dif.txt");
+            string minotauro = objleer.ReadLine();
+            while (minotauro != null)
+            {
+                Console.ForegroundColor = ConsoleColor.White;
+                for (int current = 1; current <= 9; current++)
+                {
+
+                    Console.WriteLine(minotauro);
+                    minotauro = objleer.ReadLine();
+                }
+                Console.ForegroundColor = ConsoleColor.DarkGreen;
+                for (int current = 1; current <= 6; current++)
+                {
+
+                    Console.WriteLine(minotauro);
+                    minotauro = objleer.ReadLine();
+                }
+                Console.ForegroundColor = ConsoleColor.DarkYellow;
+                for (int current = 1; current <= 6; current++)
+                {
+
+                    Console.WriteLine(minotauro);
+                    minotauro = objleer.ReadLine();
+                }
+                Console.ForegroundColor = ConsoleColor.DarkRed;
+                for (int current = 1; current <= 6; current++)
+                {
+
+                    Console.WriteLine(minotauro);
+                    minotauro = objleer.ReadLine();
+                }
+                Console.ForegroundColor = ConsoleColor.White;
+            }
+            objleer.Close();
+            Console.ForegroundColor = ConsoleColor.White;
+
             dif = askint("Seleccione una dificultad");
             cont = 0;
             switch (dif)
@@ -293,18 +368,23 @@ namespace PF_LaberintoMinotauro
 
         static void control(ref int playerx, ref int playery, ref int[,] matrix, ref int cont, ref int punt, string nombre, int dif)
         {
+            
             ConsoleKeyInfo input;
             input = Console.ReadKey(false);
 
             switch (input.Key)
             {
                 case ConsoleKey.RightArrow:
-                    if (matrix[playerx + 1, playery] == 0)
+                    if (matrix[playerx + 1, playery] == 0 || matrix[playerx + 1, playery] == 3)
                     {
 
                         matrix[playerx, playery] = 0;
                         playerx++;
                         punt++;
+                        if (matrix[playerx, playery] == 3)
+                        {
+                            punt = punt + 10;
+                        }
                         splayer(playerx, playery, ref matrix);
 
                     }
@@ -315,11 +395,15 @@ namespace PF_LaberintoMinotauro
                     break;
 
                 case ConsoleKey.LeftArrow:
-                    if (matrix[playerx - 1, playery] == 0)
+                    if (matrix[playerx - 1, playery] == 0 || matrix[playerx - 1, playery] == 3)
                     {
                         matrix[playerx, playery] = 0;
                         playerx--;
                         punt++;
+                        if (matrix[playerx, playery] == 3)
+                        {
+                            punt = punt + 10;
+                        }
                         splayer(playerx, playery, ref matrix);
 
                     }
@@ -330,11 +414,15 @@ namespace PF_LaberintoMinotauro
                     break;
 
                 case ConsoleKey.DownArrow:
-                    if (matrix[playerx, playery + 1] == 0)
+                    if (matrix[playerx, playery + 1] == 0 || matrix[playerx, playery + 1] == 3)
                     {
                         matrix[playerx, playery] = 0;
                         playery++;
                         punt++;
+                        if (matrix[playerx, playery] == 3)
+                        {
+                            punt = punt + 10;
+                        }
                         splayer(playerx, playery, ref matrix);
 
                     }
@@ -345,11 +433,15 @@ namespace PF_LaberintoMinotauro
                     break;
 
                 case ConsoleKey.UpArrow:
-                    if (matrix[playerx, playery - 1] == 0)
+                    if (matrix[playerx, playery - 1] == 0 || matrix[playerx , playery - 1] == 3)
                     {
                         matrix[playerx, playery] = 0;
                         playery--;
                         punt++;
+                        if (matrix[playerx, playery] == 3)
+                        {
+                            punt = punt + 10;
+                        }
                         splayer(playerx, playery, ref matrix);
 
                     }
@@ -650,8 +742,8 @@ namespace PF_LaberintoMinotauro
             //hold();
         }
         static string splash() {
-            //StreamWriter objescrib = new StreamWriter("MinoArtLC.txt", true);
-            //objescrib.Close();
+            StreamWriter objescrib = new StreamWriter("Dif.txt", true);
+            objescrib.Close();
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             StreamReader objleer = new StreamReader("MinoArt.txt");
             string minotauro = objleer.ReadLine();
@@ -683,9 +775,9 @@ namespace PF_LaberintoMinotauro
             File.WriteAllText(@"SavedGame.txt", string.Empty);
             StreamWriter objgrabar = new StreamWriter(saveFile, true);
 
-            for (int i = 0; i < matrix.GetLength(1); i++)
+            for (int i = 0; i < matrix.GetLength(1)-1; i++)
             {
-                for (int j = 0; j < matrix.GetLength(0); j++)
+                for (int j = 0; j < matrix.GetLength(0)-1; j++)
                 {
                     string value = Convert.ToString(matrix[j, i]);
                     objgrabar.Write("{0}, ", value);
