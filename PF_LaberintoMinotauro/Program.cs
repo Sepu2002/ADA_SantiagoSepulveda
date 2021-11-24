@@ -763,13 +763,6 @@ namespace PF_LaberintoMinotauro
             
 
         }
-        static void hold()
-        {
-            Console.WriteLine("Programa exitoso");
-            Console.WriteLine("<Presione Enter>");
-            string hold = Console.ReadLine();
-
-        }
         static void saveGame(string saveFile, ref int[,] matrix, int punt)
         {
             File.WriteAllText(@"SavedGame.txt", string.Empty);
@@ -928,7 +921,7 @@ namespace PF_LaberintoMinotauro
             char output = Convert.ToChar(Console.ReadLine());
             Console.Clear();
             return output;
-            ;
+            
         }
         static string askstr(string mes)
         {
