@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\Arreglos_alumno_y_calificacion\bin\Debug\netcoreapp3.1\Arreglos_alumno_y_calificacion.exe
+D:\Documents\GitHub\ADA_Csh\Arreglos_alumno_y_calificacion\bin\Debug\netcoreapp3.1\Arreglos_alumno_y_calificacion.deps.json
+D:\Documents\GitHub\ADA_Csh\Arreglos_alumno_y_calificacion\bin\Debug\netcoreapp3.1\Arreglos_alumno_y_calificacion.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\Arreglos_alumno_y_calificacion\bin\Debug\netcoreapp3.1\Arreglos_alumno_y_calificacion.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\Arreglos_alumno_y_calificacion\bin\Debug\netcoreapp3.1\Arreglos_alumno_y_calificacion.dll
+D:\Documents\GitHub\ADA_Csh\Arreglos_alumno_y_calificacion\bin\Debug\netcoreapp3.1\Arreglos_alumno_y_calificacion.pdb
+D:\Documents\GitHub\ADA_Csh\Arreglos_alumno_y_calificacion\obj\Debug\netcoreapp3.1\Arreglos_alumno_y_calificacion.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\Arreglos_alumno_y_calificacion\obj\Debug\netcoreapp3.1\Arreglos_alumno_y_calificacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\Arreglos_alumno_y_calificacion\obj\Debug\netcoreapp3.1\Arreglos_alumno_y_calificacion.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\Arreglos_alumno_y_calificacion\obj\Debug\netcoreapp3.1\Arreglos_alumno_y_calificacion.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\Arreglos_alumno_y_calificacion\obj\Debug\netcoreapp3.1\Arreglos_alumno_y_calificacion.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\Arreglos_alumno_y_calificacion\obj\Debug\netcoreapp3.1\Arreglos_alumno_y_calificacion.dll
+D:\Documents\GitHub\ADA_Csh\Arreglos_alumno_y_calificacion\obj\Debug\netcoreapp3.1\Arreglos_alumno_y_calificacion.pdb
+D:\Documents\GitHub\ADA_Csh\Arreglos_alumno_y_calificacion\obj\Debug\netcoreapp3.1\Arreglos_alumno_y_calificacion.genruntimeconfig.cache

@@ -24,7 +24,7 @@ namespace PF_LaberintoMinotauro
                 modeSelect(ref matrix, ref playerx, ref playery, ref minox, ref minoy, ref chyx, ref chyy, ref chybx, ref chyby, ref chycx, ref chycy, ref ogrx, ref ogry, ref ogrbx, ref ogrby, ref ogrcx, ref ogrcy, ref psyx, ref psyy, ref psybx, ref psyby, ref psycx, ref psycy, ref cont, ref punt, ref contb, ref inic, ref dif, nombre);
             } while (contb == 's' || contb == 'S');
         }
-
+        
         static void readMaze(string mapa, ref int[,] matrix)
         {
             string[] lineas = new string[20];
@@ -1006,8 +1006,6 @@ namespace PF_LaberintoMinotauro
 
 
         }
-
-
 
     }
 }

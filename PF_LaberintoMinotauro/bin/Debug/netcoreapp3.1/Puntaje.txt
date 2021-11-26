@@ -7,3 +7,4 @@ Tester	 86	 	Fácil
 sape	 149	 	Fácil
 Elvis	 43	 	Fácil
 
+Santiago	 92	 	Medio
