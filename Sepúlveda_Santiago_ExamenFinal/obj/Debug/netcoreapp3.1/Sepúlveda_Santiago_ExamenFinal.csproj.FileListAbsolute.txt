@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ADA_Csh\Sepúlveda_Santiago_ExamenFinal\obj\Debug\netcoreapp3.1\Sepúlveda_Santiago_ExamenFinal.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ADA_Csh\Sepúlveda_Santiago_ExamenFinal\obj\Debug\netcoreapp3.1\Sepúlveda_Santiago_ExamenFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ADA_Csh\Sepúlveda_Santiago_ExamenFinal\obj\Debug\netcoreapp3.1\Sepúlveda_Santiago_ExamenFinal.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ADA_Csh\Sepúlveda_Santiago_ExamenFinal\obj\Debug\netcoreapp3.1\Sepúlveda_Santiago_ExamenFinal.AssemblyInfo.cs
+D:\Documents\GitHub\ADA_Csh\Sepúlveda_Santiago_ExamenFinal\obj\Debug\netcoreapp3.1\Sepúlveda_Santiago_ExamenFinal.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ADA_Csh\Sepúlveda_Santiago_ExamenFinal\bin\Debug\netcoreapp3.1\Sepúlveda_Santiago_ExamenFinal.exe
+D:\Documents\GitHub\ADA_Csh\Sepúlveda_Santiago_ExamenFinal\bin\Debug\netcoreapp3.1\Sepúlveda_Santiago_ExamenFinal.deps.json
+D:\Documents\GitHub\ADA_Csh\Sepúlveda_Santiago_ExamenFinal\bin\Debug\netcoreapp3.1\Sepúlveda_Santiago_ExamenFinal.runtimeconfig.json
+D:\Documents\GitHub\ADA_Csh\Sepúlveda_Santiago_ExamenFinal\bin\Debug\netcoreapp3.1\Sepúlveda_Santiago_ExamenFinal.runtimeconfig.dev.json
+D:\Documents\GitHub\ADA_Csh\Sepúlveda_Santiago_ExamenFinal\bin\Debug\netcoreapp3.1\Sepúlveda_Santiago_ExamenFinal.dll
+D:\Documents\GitHub\ADA_Csh\Sepúlveda_Santiago_ExamenFinal\bin\Debug\netcoreapp3.1\Sepúlveda_Santiago_ExamenFinal.pdb
+D:\Documents\GitHub\ADA_Csh\Sepúlveda_Santiago_ExamenFinal\obj\Debug\netcoreapp3.1\Sepúlveda_Santiago_ExamenFinal.dll
+D:\Documents\GitHub\ADA_Csh\Sepúlveda_Santiago_ExamenFinal\obj\Debug\netcoreapp3.1\Sepúlveda_Santiago_ExamenFinal.pdb
+D:\Documents\GitHub\ADA_Csh\Sepúlveda_Santiago_ExamenFinal\obj\Debug\netcoreapp3.1\Sepúlveda_Santiago_ExamenFinal.genruntimeconfig.cache
